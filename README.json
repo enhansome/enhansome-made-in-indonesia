@@ -1,0 +1,4346 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 3,565) Automa",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-02T11:56:23Z",
+            "owner": "AutomaApp",
+            "repo": "automa",
+            "stars": 21562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1,543) avatar",
+          "description": "by Laravolt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-06T15:54:23Z",
+            "owner": "laravolt",
+            "repo": "avatar",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 298) Awesome CI/CD Security",
+          "description": "by Muhammad Yuga N.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T13:17:13Z",
+            "owner": "myugan",
+            "repo": "awesome-cicd-security",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 634) Awesome Indonesia Repo",
+          "description": "by GitIndonesia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-08T16:59:56Z",
+            "owner": "GitIndonesia",
+            "repo": "awesome-indonesia-repo",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 391) Awesome Docker Security",
+          "description": "by Muhammad Yuga N.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-28T13:24:37Z",
+            "owner": "myugan",
+            "repo": "awesome-docker-security",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 142) Awesome Linux Customization",
+          "description": "by Muhammad Yuga N.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-05T10:04:28Z",
+            "owner": "myugan",
+            "repo": "awesome-linux-customization",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 64) Aplikasi Penjualan Barang (Kasir)",
+          "description": "by Fauzan Falah",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2025-09-20T11:36:13Z",
+            "owner": "fauzan1892",
+            "repo": "pos-kasir-php",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 78) API Hari Libur",
+          "description": "by Kresna",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-01T00:02:23Z",
+            "owner": "kresnasatya",
+            "repo": "api-harilibur",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 159) Aksara UI",
+          "description": "by kata.ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T15:47:12Z",
+            "owner": "kata-ai",
+            "repo": "aksara-ui",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 121) AdBlockID",
+          "description": "by realodix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T15:55:57Z",
+            "owner": "realodix",
+            "repo": "AdBlockID",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 45) Aperture",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-16T17:06:39Z",
+            "owner": "pveyes",
+            "repo": "aperture",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 58) ApiRateLimitBundle",
+          "description": "by Indra Gunawan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-12T08:27:27Z",
+            "owner": "IndraGunawan",
+            "repo": "api-rate-limit-bundle",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 24) Arisan",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-15T08:58:08Z",
+            "owner": "nafiesl",
+            "repo": "arisan",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) Al-Quran dan Terjemahan",
+          "description": "by Nur Muhammad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-21T11:03:35Z",
+            "owner": "ngekoding",
+            "repo": "quran-id",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 27) AyoShalat",
+          "description": "by Butirpadi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-09T13:20:57Z",
+            "owner": "butirpadi",
+            "repo": "AyoShalat",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) axolotl",
+          "description": "by Yahya Fadhlulloh Al-Fatih",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-25T11:39:32Z",
+            "owner": "k1m0ch1",
+            "repo": "axolotl",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) APAM Barabai",
+          "description": "by Basoro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:55:41Z",
+            "owner": "basoro",
+            "repo": "apam",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) AidenBot",
+          "description": "by Sage Abdullah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-16T04:12:39Z",
+            "owner": "laymonage",
+            "repo": "AidenBot",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Al-Qur'an JSON API [id-ID]",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-02-25T22:24:04Z",
+            "owner": "nyancodeid",
+            "repo": "quran-api-go",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "A"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 502) bebasid",
+          "description": "by bebasid oleh KINI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T09:49:36Z",
+            "owner": "bebasid",
+            "repo": "bebasid",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 307) baca-quran.id",
+          "description": "by Irfan Maulana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:07:52Z",
+            "owner": "mazipan",
+            "repo": "baca-quran.id",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 151) Belajar git",
+          "description": "by Petani Kode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:29:35Z",
+            "owner": "petanikode",
+            "repo": "belajar-git",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 61) Blackprint",
+          "description": "by StefansArya",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-29T04:08:25Z",
+            "owner": "Blackprint",
+            "repo": "Blackprint",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 12) Barka",
+          "description": "by Diki Siswanto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-29T12:18:35Z",
+            "owner": "dikisiswanto",
+            "repo": "barka",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 80) Bloggerpack",
+          "description": "by Igoy Nawamreh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:33:21Z",
+            "owner": "bloggerpack",
+            "repo": "bloggerpack",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 66) Bangjago Android Emulator (CLI Version)",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2020-12-10T05:35:16Z",
+            "owner": "restuwahyu13",
+            "repo": "bangjago-android-emulator",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Bilal",
+          "description": "by Azzam S.A.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-16T20:59:44Z",
+            "owner": "azzamsa",
+            "repo": "bilal",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 60) Boilerplate Svelte",
+          "description": "by Dwi Agustianto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T22:33:02Z",
+            "owner": "agusID",
+            "repo": "boilerplate-svelte",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 26) Daftar Kata Baku dan Tidak Baku",
+          "description": "by Rony Lantip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-12T18:04:01Z",
+            "owner": "lantip",
+            "repo": "baku-tidak-baku",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 14) Budget Pascal",
+          "description": "by Faiz Ilham",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-16T14:47:07Z",
+            "owner": "faizilham",
+            "repo": "budgetpascal",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) Batangan",
+          "description": "by Rony Lantip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-04T05:10:59Z",
+            "owner": "lantip",
+            "repo": "batangan",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Bob - SQL Query Builder",
+          "description": "by Reinaldy Rafli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-09T14:00:11Z",
+            "owner": "aldy505",
+            "repo": "bob",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Bandwidth Hero (Refactored)",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-24T13:02:41Z",
+            "owner": "nyancodeid",
+            "repo": "bandwidth-hero-proxy",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) bapa",
+          "description": "by Andre Christoga Pramaditya",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-19T13:04:35Z",
+            "owner": "drepram",
+            "repo": "bapa",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) BlobCDN",
+          "description": "by Frans Allen",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Baileys Wabot",
+          "description": "by ナスワサルサ",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Bootify",
+          "description": "by melvnl",
+          "children": []
+        }
+      ],
+      "title": "B"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 374) Color Copy Paste",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-01T08:10:58Z",
+            "owner": "sonnylazuardi",
+            "repo": "colorGPT",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 74) Compose playground: To Do List App",
+          "description": "by Wisnu Kurniawan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T22:57:44Z",
+            "owner": "wisnukurniawan",
+            "repo": "Compose-ToDo",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 53) Chakra-Icons",
+          "description": "by Koding Ninja",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-04-26T05:42:12Z",
+            "owner": "kodingdotninja",
+            "repo": "chakra-icons",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 42) cardivo",
+          "description": "by Satya Wikananda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T15:32:25Z",
+            "owner": "satyawikananda",
+            "repo": "cardivo",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 86) Cek Ejaan Figma Plugin",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-06T02:15:38Z",
+            "owner": "sonnylazuardi",
+            "repo": "gramatika-figma-plugin",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 17) carakanjs",
+          "description": "by Nourman Hajar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-16T05:11:48Z",
+            "owner": "masnormen",
+            "repo": "carakanjs",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) c9tui",
+          "description": "by Syafa Adena",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-31T22:01:37Z",
+            "owner": "gvoze32",
+            "repo": "c9cli",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) chip8-rs",
+          "description": "by Faiz Ilham",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T14:42:48Z",
+            "owner": "faizilham",
+            "repo": "chip8-rs",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) ColorSense",
+          "description": "by Nur Fikri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T19:48:23Z",
+            "owner": "codingki",
+            "repo": "colorSense",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) Code Radio (vscode-extension)",
+          "description": "by David Adi Nugroho",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-10-13T23:27:48Z",
+            "owner": "lakuapik",
+            "repo": "vscode-coderadio",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) CulpInt",
+          "description": "by Faiz Jazadi",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-11-02T04:10:07Z",
+            "owner": "lc-at",
+            "repo": "culpint",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Corona Runner",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-30T05:23:09Z",
+            "owner": "BillyFrcs",
+            "repo": "CoronaRunner",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Cpanel Password Reset Tools",
+          "description": "by Naufal Ardhani",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-22T04:39:26Z",
+            "owner": "naufalardhani",
+            "repo": "cpanel-pass-reset",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 122) Carikerja",
+          "description": "by Riza Fahmi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-11T10:18:45Z",
+            "owner": "rizafahmi",
+            "repo": "carikerja",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 131) doh.tiar.app",
+          "description": "by Tiarap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2026-08-04T07:22:05Z",
+            "owner": "pengelana",
+            "repo": "blocklist",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 118) Dompet",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-16T10:19:59Z",
+            "owner": "nafiesl",
+            "repo": "dompet",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 120) DWAdmin",
+          "description": "by Andre Tri Ramadana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-05-09T15:25:32Z",
+            "owner": "andre12001",
+            "repo": "DWAdmin-Template",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 57) domhttpx",
+          "description": "by Naufal Ardhani",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-16T00:28:52Z",
+            "owner": "naufalardhani",
+            "repo": "domhttpx",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 39) discussbase",
+          "description": "by Hilman Ramadhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-26T22:40:49Z",
+            "owner": "hilmanski",
+            "repo": "discussbase",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 43) Devover Forum",
+          "description": "by DevoverID",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-01T19:37:33Z",
+            "owner": "devoverid",
+            "repo": "forum",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 32) django-jsonfield-backport",
+          "description": "by Sage Abdullah",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-02-25T01:52:38Z",
+            "owner": "laymonage",
+            "repo": "django-jsonfield-backport",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 25) Discord Music Bot For Termux",
+          "description": "by taqin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T08:33:41Z",
+            "owner": "fdciabdul",
+            "repo": "tmuxdcbot",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) Decimal Clock",
+          "description": "by Teknologi Umum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-19T03:01:44Z",
+            "owner": "teknologi-umum",
+            "repo": "decimal-clock",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 12) dzikrr",
+          "description": "by muslim-dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-09T13:38:17Z",
+            "owner": "muslim-dev",
+            "repo": "dzikrr",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) Dogeit",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-22T16:58:12Z",
+            "owner": "kimlimjustin",
+            "repo": "dogeit",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) discord-alert",
+          "description": "by melvnl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-15T03:14:44Z",
+            "owner": "melvnl",
+            "repo": "discord-alert",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 31) Express Model View Controller Pattern (MVC)",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-16T12:20:03Z",
+            "owner": "restuwahyu13",
+            "repo": "express-mvc-pattern",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 30) Eleventy Plugin Tailwind CSS",
+          "description": "by dafiulh",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-12-25T01:31:01Z",
+            "owner": "daflh",
+            "repo": "eleventy-plugin-tailwindcss",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) ecommerce",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-14T22:57:19Z",
+            "owner": "kimlimjustin",
+            "repo": "ecommerce",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 81) encryptlab",
+          "description": "by Fauzan",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) evo",
+          "description": "by Muhammad Syifa",
+          "children": []
+        }
+      ],
+      "title": "E"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 443) FreeStuffDev",
+          "description": "by Hilman Ramadhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-02-22T04:05:13Z",
+            "owner": "hilmanski",
+            "repo": "freeStuffDev",
+            "stars": 1949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 425) FACEBOOK TOOLKIT",
+          "description": "by Wahyu Arif Purnomo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-11T03:39:22Z",
+            "owner": "warifp",
+            "repo": "FacebookToolkit",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 335) Free PMO",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-12T02:55:30Z",
+            "owner": "nafiesl",
+            "repo": "free-pmo",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Flourite - Language detector",
+          "description": "by Teknologi Umum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-16T11:54:06Z",
+            "owner": "teknologi-umum",
+            "repo": "flourite",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 26) FotonGo",
+          "description": "by Muhammad Fahriansyah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-05T05:28:00Z",
+            "owner": "fachryansyah",
+            "repo": "fotongo",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) fav",
+          "description": "by Cristopher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-02-18T14:53:11Z",
+            "owner": "Namchee",
+            "repo": "fav",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Fireworks Visual Effect",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-30T05:25:14Z",
+            "owner": "BillyFrcs",
+            "repo": "FireworksVFX",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 21) Frogo Android SDK",
+          "description": "by Faisal Amir",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2022-03-14T08:35:28Z",
+            "owner": "frogobox",
+            "repo": "frogo-android-sdk",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) Fat Secret Unofficial API",
+          "description": "by Manda Putra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-26T08:27:36Z",
+            "owner": "mandaputtra",
+            "repo": "fatsecret-unofc-api",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 10) flair-kit monorepo",
+          "description": "by Jacky Efendi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-10T03:48:57Z",
+            "owner": "jackyef",
+            "repo": "flair",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Fimail",
+          "description": "by Feri Irawan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-24T15:22:14Z",
+            "owner": "feri-irawan",
+            "repo": "fimail",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) FND",
+          "description": "by Rifky Bujana Bisri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-27T10:31:24Z",
+            "owner": "rifkybujana",
+            "repo": "FND",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Fistorage",
+          "description": "by Feri Irawan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-02T12:31:16Z",
+            "owner": "feri-irawan",
+            "repo": "fistorage",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Flappy Bird",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-20T03:51:34Z",
+            "owner": "BillyFrcs",
+            "repo": "FlappyBird",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "F"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 1,565) giscus",
+          "description": "by Sage Abdullah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T22:20:10Z",
+            "owner": "giscus",
+            "repo": "giscus",
+            "stars": 12016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 185) Grosir Obat",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-05-31T05:13:29Z",
+            "owner": "nafiesl",
+            "repo": "grosir-obat",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 96) GraphQL for PokeAPI",
+          "description": "by Irfan Maulana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T06:51:11Z",
+            "owner": "mazipan",
+            "repo": "graphql-pokeapi",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 116) Globe 3D",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-16T08:28:50Z",
+            "owner": "sonnylazuardi",
+            "repo": "globe-3d",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 92) Google Forms CLONE",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-04T14:48:59Z",
+            "owner": "kimlimjustin",
+            "repo": "google-form-clone",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 58) GameINA",
+          "description": "by Syauqizaidan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-07T17:37:53Z",
+            "owner": "syauqi",
+            "repo": "gameina",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 50) Golang Gin Framework Fundamental",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-22T05:29:13Z",
+            "owner": "restuwahyu13",
+            "repo": "go-rest-api",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 28) Golang Clean Architecture",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-17T20:31:19Z",
+            "owner": "restuwahyu13",
+            "repo": "go-clean-architecture",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 72) gramatika.app",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-17T10:31:00Z",
+            "owner": "sonnylazuardi",
+            "repo": "gramatika.app",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 48) Garuda CRUD Generator",
+          "description": "by Nuris Akbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-24T08:17:27Z",
+            "owner": "nurisakbar",
+            "repo": "Garuda-CRUD-Generator",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 31) gridjs-svelte",
+          "description": "by Muhammad Yusuf",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2024-11-21T07:12:31Z",
+            "owner": "iamyuu",
+            "repo": "gridjs-svelte",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 29) Google Keep Clone",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T23:02:53Z",
+            "owner": "kimlimjustin",
+            "repo": "google-keep-clone",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 32) GotRo",
+          "description": "by Kiswono Prayogo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T03:53:34Z",
+            "owner": "kokizzu",
+            "repo": "gotro",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 18) Graphene",
+          "description": "by Teknologi Umum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-31T05:11:46Z",
+            "owner": "teknologi-umum",
+            "repo": "graphene",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) goproc",
+          "description": "by Kiswono Prayogo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T17:44:42Z",
+            "owner": "kokizzu",
+            "repo": "goproc",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 14) Good JS Plugins",
+          "description": "by Kresna",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-31T04:31:11Z",
+            "owner": "kresnasatya",
+            "repo": "good-js-plugins",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) Gorou",
+          "description": "by Zhycorp Development",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-17T07:26:31Z",
+            "owner": "zhycorpdev-bot",
+            "repo": "gorou",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 30) getsubdomain",
+          "description": "by abay",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-12T03:38:16Z",
+            "owner": "abaykan",
+            "repo": "getsubdomain",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Github Repo Content CRUD",
+          "description": "by Hilman Ramadhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-09T00:11:17Z",
+            "owner": "hilmanski",
+            "repo": "Github-content-CRUD-API",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Gambar",
+          "description": "by Sendy Halim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-06-14T18:52:14Z",
+            "owner": "sendyhalim",
+            "repo": "gambar",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) genmypass",
+          "description": "by Alfian Andi Nugraha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-28T16:07:44Z",
+            "owner": "alfianandinugraha",
+            "repo": "genmypass",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Gitgram",
+          "description": "by Teknologi Umum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-31T05:11:45Z",
+            "owner": "teknologi-umum",
+            "repo": "gitgram",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) Genshin Automation",
+          "description": "by Kresna",
+          "children": []
+        }
+      ],
+      "title": "G"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 776) HTMLy",
+          "description": "by Danang Probo Sayekti",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-25T01:00:57Z",
+            "owner": "danpros",
+            "repo": "htmly",
+            "stars": 1356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 468) htmr",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-12T00:10:07Z",
+            "owner": "pveyes",
+            "repo": "htmr",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 147) Hadith - API",
+          "description": "by Gading Nasution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-11T01:55:59Z",
+            "owner": "gadingnst",
+            "repo": "hadith-api",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) Holy Quran with Colorful Tajweed Anotation",
+          "description": "by Kode Pandai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-08T04:18:37Z",
+            "owner": "kodepandai",
+            "repo": "colorful-quran",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 32) Hugoblog",
+          "description": "by Ahmad Saugi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-14T14:26:25Z",
+            "owner": "zuramai",
+            "repo": "hugoblog",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 44) HikariCP",
+          "description": "by Hendi Santika",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-21T23:05:20Z",
+            "owner": "hendisantika",
+            "repo": "HikariCP",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) Gabo",
+          "description": "by Jamastek",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-18T18:27:22Z",
+            "owner": "jamastek",
+            "repo": "gabo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) horizon",
+          "description": "by Rafli Surya P",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-03-08T16:00:05Z",
+            "owner": "RSurya99",
+            "repo": "horizon",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "H"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 111) indonesianadblockrules",
+          "description": "by ABPindo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Adblock Filter List",
+            "last_commit": "2026-08-12T12:40:08Z",
+            "owner": "ABPindo",
+            "repo": "indonesianadblockrules",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 22) Inspect CSS",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-10-20T02:02:13Z",
+            "owner": "Kholid060",
+            "repo": "inspect-css",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 158) Inside Heartz WhatsApp Bot",
+          "description": "by taqin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-02-03T21:54:00Z",
+            "owner": "fdciabdul",
+            "repo": "InsideHeartz-WhatsApp-Bot",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 96) IRO",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-04T05:30:11Z",
+            "owner": "nyancodeid",
+            "repo": "iro",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 40) InstaShare",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-01-10T11:36:31Z",
+            "owner": "nyancodeid",
+            "repo": "insta-share",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) irgsh-go",
+          "description": "by BlankOn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-05T06:50:33Z",
+            "owner": "BlankOn",
+            "repo": "irgsh-go",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) Instagram Preloading",
+          "description": "by Andri Ginting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-09-28T05:15:58Z",
+            "owner": "andriiginting",
+            "repo": "instagram-preloading",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 28) Idnaive",
+          "description": "by Fauzan",
+          "children": []
+        }
+      ],
+      "title": "I"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 26) Jokes Bapak2 Image API",
+          "description": "by Reinaldy Rafli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-11T14:16:50Z",
+            "owner": "aldy505",
+            "repo": "jokes-bapak2",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Jago Sholat",
+          "description": "by Faisal Amir",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-17T23:35:58Z",
+            "owner": "amirisback",
+            "repo": "jago-sholat",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) JWT Transform",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-08T12:32:52Z",
+            "owner": "restuwahyu13",
+            "repo": "jwt-transform",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) jasat",
+          "description": "by RiN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-11T08:54:23Z",
+            "owner": "r17x",
+            "repo": "jasat",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) jscontext",
+          "description": "by Fauzan",
+          "children": []
+        }
+      ],
+      "title": "J"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 526) Klisé",
+          "description": "by Harπ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-08-05T09:59:27Z",
+            "owner": "piharpi",
+            "repo": "jekyll-klise",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 156) ksana.in",
+          "description": "by Irfan Maulana",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-18T00:40:33Z",
+            "owner": "mazipan",
+            "repo": "ksana.in",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 39) Khanza LITE",
+          "description": "by Basoro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T07:31:37Z",
+            "owner": "basoro",
+            "repo": "mlite",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 100) Katla",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:01:01Z",
+            "owner": "pveyes",
+            "repo": "katla",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 49) Kyros",
+          "description": "by Faiz Jazadi",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-11-02T04:25:36Z",
+            "owner": "lc-at",
+            "repo": "kyros",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 56) kbbi-python",
+          "description": "by Sage Abdullah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-12T15:57:13Z",
+            "owner": "laymonage",
+            "repo": "kbbi-python",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 48) Kelas Rumah Berbagi",
+          "description": "by Zain Fathoni",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T07:33:46Z",
+            "owner": "zainfathoni",
+            "repo": "kelas.rumahberbagi.com",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 55) Kotla",
+          "description": "by Jacky Efendi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-18T14:27:42Z",
+            "owner": "jackyef",
+            "repo": "kotla",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 43) Kait-Admin",
+          "description": "by DevoverID",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-07T17:22:33Z",
+            "owner": "devoverid",
+            "repo": "kait-admin",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) kalman-cpp",
+          "description": "by Auralius Manurung",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-15T03:47:06Z",
+            "owner": "auralius",
+            "repo": "kalman-cpp",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) kvstore",
+          "description": "by Juan Christian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-22T10:49:47Z",
+            "owner": "HotPotatoC",
+            "repo": "kvstore",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Kanaizu",
+          "description": "by elianiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2021-07-25T13:51:59Z",
+            "owner": "elianiva",
+            "repo": "kanaizu",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) Kraken Node",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T12:59:19Z",
+            "owner": "restuwahyu13",
+            "repo": "kraken-node",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Kraken Browser",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-27T13:04:32Z",
+            "owner": "restuwahyu13",
+            "repo": "kraken-browser",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Komo",
+          "description": "by Ainul",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-26T06:50:53Z",
+            "owner": "ainulbedjo",
+            "repo": "komo",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "K"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 1.1k) List All Programming Telegram Group",
+          "description": "by Hendi Santika",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2025-08-03T03:05:42Z",
+            "owner": "hendisantika",
+            "repo": "List-All-Programming-Telegram-Group",
+            "stars": 1485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 376) LARAVOLT INDONESIA",
+          "description": "by Laravolt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-03T06:32:45Z",
+            "owner": "laravolt",
+            "repo": "indonesia",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 365) List of Tech Migrations",
+          "description": "by Kiswono Prayogo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-11T10:38:55Z",
+            "owner": "kokizzu",
+            "repo": "list-of-tech-migrations",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 242) Learnify",
+          "description": "by Syauqizaidan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-10T22:08:56Z",
+            "owner": "syauqi",
+            "repo": "learnify",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 150) LEMPer - [L]inux [E]ngine-X [M]ariaDB [P]HP Install[ER]",
+          "description": "by Edi Septriyanto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-01T10:59:43Z",
+            "owner": "joglomedia",
+            "repo": "LEMPer",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Lunox",
+          "description": "by Kode Pandai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-09T04:38:16Z",
+            "owner": "kodepandai",
+            "repo": "lunox",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 12) LuGre",
+          "description": "by Auralius Manurung",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-02-13T18:10:42Z",
+            "owner": "auralius",
+            "repo": "LuGre",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 28) latintojavanese",
+          "description": "by Rony Lantip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-02T19:14:08Z",
+            "owner": "lantip",
+            "repo": "latintojavanese",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 29) Luck or hardwork",
+          "description": "by Jacky Efendi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-01T06:18:16Z",
+            "owner": "jackyef",
+            "repo": "luck-or-hardwork",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) Lyrics Finder",
+          "description": "by Angelo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-16T14:56:10Z",
+            "owner": "angeloanan",
+            "repo": "lyrics-finder",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) Lunox-framework",
+          "description": "by Kode Pandai",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-10T03:18:53Z",
+            "owner": "kodepandai",
+            "repo": "lunox-framework",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 12) LhokUtang",
+          "description": "by Theodorus Clarence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-13T11:18:19Z",
+            "owner": "theodorusclarence",
+            "repo": "lhokutang",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) LRU-SEND",
+          "description": "by tinyhttp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T09:17:06Z",
+            "owner": "tinyhttp",
+            "repo": "lru-send",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) LexID",
+          "description": "by Kiswono Prayogo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T17:51:05Z",
+            "owner": "kokizzu",
+            "repo": "lexid",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Laravel RajaOngkir API Wrapper",
+          "description": "by Kode Pandai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-12T10:47:27Z",
+            "owner": "kodepandai",
+            "repo": "laravel-rajaongkir",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Logam Berkah",
+          "description": "by Adhatama",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-07-22T02:33:58Z",
+            "owner": "adhatama",
+            "repo": "logamberkah",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Loyalku",
+          "description": "by Akramurridjal Rahman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-01-10T10:44:24Z",
+            "owner": "xerod",
+            "repo": "loyalku",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Last Mile Delivery API",
+          "description": "by mpj",
+          "children": []
+        }
+      ],
+      "title": "L"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 966) Mazer Dashboard",
+          "description": "by Ahmad Saugi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-05T13:45:33Z",
+            "owner": "zuramai",
+            "repo": "mazer",
+            "stars": 3097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 109) milliparsec",
+          "description": "by tinyhttp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-14T10:08:04Z",
+            "owner": "tinyhttp",
+            "repo": "milliparsec",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 111) Mecha CMS",
+          "description": "by Taufik Nurrohman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-16T05:45:02Z",
+            "owner": "mecha-cms",
+            "repo": "mecha",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 97) Malibu",
+          "description": "by tinyhttp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T20:50:34Z",
+            "owner": "tinyhttp",
+            "repo": "malibu",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 106) MkDown",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-12T21:58:57Z",
+            "owner": "Kholid060",
+            "repo": "MkDown2",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 34) Mini SSG",
+          "description": "by Hilman Ramadhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-04T05:37:18Z",
+            "owner": "hilmanski",
+            "repo": "mini-SSG",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 45) Muvi",
+          "description": "by Andri Ginting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-02-16T17:54:00Z",
+            "owner": "andriiginting",
+            "repo": "Muvi",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 25) moneyman",
+          "description": "by Happy Indra Wijaya",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T04:23:08Z",
+            "owner": "hiwijaya",
+            "repo": "moneyman",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) matlab-robotics-toolbox",
+          "description": "by Auralius Manurung",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-10-19T12:40:01Z",
+            "owner": "auralius",
+            "repo": "my-matlab-robotics-toolbox",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 28) Mesjid-WPMWA",
+          "description": "by RiN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-04-22T02:22:47Z",
+            "owner": "r17x",
+            "repo": "Mesjid-WPMWA",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) Mockify",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-09-18T12:31:13Z",
+            "owner": "nyancodeid",
+            "repo": "mockify",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) Massseen",
+          "description": "by Syafa Adena",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-06T01:01:05Z",
+            "owner": "gvoze32",
+            "repo": "massseen",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Moovy",
+          "description": "by Ibrahimsyah Zairussalam",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-04T10:45:56Z",
+            "owner": "Ibrahimsyah",
+            "repo": "Moovy",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) maojajan",
+          "description": "by Alfian Andi Nugraha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-19T08:52:20Z",
+            "owner": "alfianandinugraha",
+            "repo": "maojajan",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "M"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) NEFA Landing Page",
+          "description": "by Rafli Surya P",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-11T15:50:37Z",
+            "owner": "RSurya99",
+            "repo": "nefa",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 90) Notiolink",
+          "description": "by Theodorus Clarence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:16:07Z",
+            "owner": "theodorusclarence",
+            "repo": "notiolink",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 141) naskah",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-05-06T17:45:01Z",
+            "owner": "pveyes",
+            "repo": "naskah",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 82) Notething",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-10-24T11:20:00Z",
+            "owner": "Kholid060",
+            "repo": "notething",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 42) nuxewind",
+          "description": "by Ahmad Saugi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-09-04T10:14:30Z",
+            "owner": "zuramai",
+            "repo": "nuxewind",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 23) ngecilin",
+          "description": "by Kulkul Technology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T23:17:15Z",
+            "owner": "kulkultech",
+            "repo": "ngecilin",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) NeoAdzan",
+          "description": "by Cahya DSN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-20T01:49:52Z",
+            "owner": "cahyadsn",
+            "repo": "neoadzan",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) Node Disk Storage (NDS)",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T12:58:56Z",
+            "owner": "restuwahyu13",
+            "repo": "node-disk-storage",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) next-tabley",
+          "description": "by Alfian Andi Nugraha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-13T08:07:54Z",
+            "owner": "alfianandinugraha",
+            "repo": "next-tabley",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Ngobrol Dong App",
+          "description": "by I Putu Saputrayana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-29T21:31:13Z",
+            "owner": "iyansr",
+            "repo": "ngobrol-dong",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 32) nuxt-web3",
+          "description": "by Fauzan",
+          "children": []
+        }
+      ],
+      "title": "N"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 690) OpenSID - Sistem Informasi Desa",
+          "description": "by Perkumpulan Desa Digital Terbuka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:15:54Z",
+            "owner": "OpenSID",
+            "repo": "OpenSID",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) OwnTest",
+          "description": "by Rahmat Agung Julians",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-16T06:16:39Z",
+            "owner": "rahmatagungj",
+            "repo": "owntest",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) One Day One Ayah",
+          "description": "by Arga Ghulam Ahmad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-12T16:32:32Z",
+            "owner": "argaghulamahmad",
+            "repo": "one-day-one-ayah",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) OpenGL Graphics API",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-25T03:46:10Z",
+            "owner": "BillyFrcs",
+            "repo": "GraphicsProgramming",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "O"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 28,764) PhantomJS - Scriptable Headless WebKit",
+          "description": "by Ariya Hidayat",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-11-26T19:43:12Z",
+            "owner": "ariya",
+            "repo": "phantomjs",
+            "stars": 29454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 55) PyGoat",
+          "description": "by adeyosemanputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-06T14:45:33Z",
+            "owner": "adeyosemanputra",
+            "repo": "pygoat",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 158) PUEBI Daring",
+          "description": "by Ivan Lanin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-11T19:13:05Z",
+            "owner": "ivanlanin",
+            "repo": "puebi",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 109) Projectile",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2022-03-25T10:01:38Z",
+            "owner": "Kholid060",
+            "repo": "projectile",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 107) PHUNT",
+          "description": "by Wahyu Kristianto",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-15T16:45:40Z",
+            "owner": "Kristories",
+            "repo": "phunt",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 90) pramuka.online",
+          "description": "by Irfan Maulana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-12T09:41:07Z",
+            "owner": "mazipan",
+            "repo": "pramuka-id",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 14) Praesentia",
+          "description": "by Faiz Jazadi",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-28T03:43:36Z",
+            "owner": "lc-at",
+            "repo": "praesentia",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 13) Pasaran",
+          "description": "by Rony Lantip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-11T01:24:47Z",
+            "owner": "lantip",
+            "repo": "pasaran",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) Polarite",
+          "description": "by Teknologi Umum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-22T20:10:36Z",
+            "owner": "teknologi-umum",
+            "repo": "polarite",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Prawf",
+          "description": "by elianiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-19T10:49:50Z",
+            "owner": "elianiva",
+            "repo": "prawf",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) Pray Box",
+          "description": "by Faisal Amir",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-04-19T06:25:18Z",
+            "owner": "amirisback",
+            "repo": "pray-box",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) Pleasantcord",
+          "description": "by Cristopher",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-11T15:08:21Z",
+            "owner": "Namchee",
+            "repo": "pleasantcord",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Product Stock Web App",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-09-12T06:30:33Z",
+            "owner": "nafiesl",
+            "repo": "product-stock",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Programming",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-06T04:15:42Z",
+            "owner": "BillyFrcs",
+            "repo": "Programming",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) PkDx: A PokeDex app",
+          "description": "by Wisesa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-25T04:47:19Z",
+            "owner": "kelilipan",
+            "repo": "pkdx",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Piramida",
+          "description": "by Cristopher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-26T13:22:27Z",
+            "owner": "Namchee",
+            "repo": "piramida",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Pokédex",
+          "description": "by Akramurridjal Rahman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-07T04:39:22Z",
+            "owner": "xerod",
+            "repo": "pokedex",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 34) patterns.run",
+          "description": "by Griko Nibras",
+          "children": []
+        }
+      ],
+      "title": "P"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 414) Quran - API",
+          "description": "by Gading Nasution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-23T07:07:12Z",
+            "owner": "gadingnst",
+            "repo": "quran-api",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 24) Quran API ID",
+          "description": "by R.M. Reza",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-07T13:11:17Z",
+            "owner": "renomureza",
+            "repo": "quran-api-id",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 58) Quote's Project",
+          "description": "by Ryan Aunur Rassyid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-10-04T07:12:19Z",
+            "owner": "nyancodeid",
+            "repo": "quotes",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) QURAN",
+          "description": "by Wahyu Kristianto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-26T19:54:30Z",
+            "owner": "Kristories",
+            "repo": "quran",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) quranku",
+          "description": "by Diki Siswanto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-09T11:22:46Z",
+            "owner": "dikisiswanto",
+            "repo": "quranku",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) quran",
+          "description": "by Fiqry choerudin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-06-06T11:06:23Z",
+            "owner": "fiqryq",
+            "repo": "quran-digital",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) quiz-app",
+          "description": "by gibran abdillah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-09T02:21:55Z",
+            "owner": "gibran-abdillah",
+            "repo": "quiz-app",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Quran Randomizer",
+          "description": "by Ucok I. L",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-11T16:17:26Z",
+            "owner": "Ucok23",
+            "repo": "quran-randomizer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Q"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 239) React Native + Expo Starter Templates",
+          "description": "by Nur Fikri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-18T04:14:18Z",
+            "owner": "codingki",
+            "repo": "react-native-expo-template",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 656) Rakit Validation",
+          "description": "by Muhammad Syifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-29T03:50:42Z",
+            "owner": "rakit",
+            "repo": "validation",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 364) React Native Credit Card",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-16T08:30:25Z",
+            "owner": "sonnylazuardi",
+            "repo": "react-native-credit-card",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 232) RuangAdmin",
+          "description": "by indri junanda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-05-08T04:19:53Z",
+            "owner": "indrijunanda",
+            "repo": "RuangAdmin",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 94) Rapi UI",
+          "description": "by Nur Fikri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-26T14:52:06Z",
+            "owner": "codingki",
+            "repo": "react-native-rapi-ui",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 131) raw.macro",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-22T12:36:39Z",
+            "owner": "pveyes",
+            "repo": "raw.macro",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 30) React Mazer UI",
+          "description": "by Muhammad Fahriansyah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-10-15T15:57:10Z",
+            "owner": "fachryansyah",
+            "repo": "react-mazer-ui",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 46) rescript-chakra",
+          "description": "by RiN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2025-11-20T22:12:55Z",
+            "owner": "rescript-ui",
+            "repo": "rescript-chakra",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 17) rescript-libs",
+          "description": "by RiN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2025-11-21T00:22:23Z",
+            "owner": "r17x",
+            "repo": "rescript-libs",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Restolobe",
+          "description": "by Ibrahimsyah Zairussalam",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-02T01:40:20Z",
+            "owner": "Ibrahimsyah",
+            "repo": "Restolobe",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Reactism",
+          "description": "by Gifa Eriyanto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-07T22:54:52Z",
+            "owner": "gifaeriyanto",
+            "repo": "reactism",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Redux Adventure",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-21T13:34:45Z",
+            "owner": "BillyFrcs",
+            "repo": "ReduxAdventure",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Ravioli",
+          "description": "by Raviolini",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-10T05:52:09Z",
+            "owner": "raviolini",
+            "repo": "ravioli",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 26) reactplate",
+          "description": "by Fauzan",
+          "children": []
+        }
+      ],
+      "title": "R"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 2,868) Stisla",
+          "description": "by Stisla",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-06T03:02:26Z",
+            "owner": "stisla",
+            "repo": "stisla",
+            "stars": 3752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1,231) Sudomy",
+          "description": "by Edo Maland",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-27T10:07:42Z",
+            "owner": "screetsec",
+            "repo": "Sudomy",
+            "stars": 2422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 300) SIMRS Khanza",
+          "description": "by Mas Elkhanza",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T02:04:30Z",
+            "owner": "mas-elkhanza",
+            "repo": "SIMRS-Khanza",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 359) Silsilah - Genealogy Application",
+          "description": "by Nafies Luthfi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-11T20:22:35Z",
+            "owner": "nafiesl",
+            "repo": "silsilah",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 464) statically",
+          "description": "by Frans Allen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-10T20:49:00Z",
+            "owner": "staticallyio",
+            "repo": "statically",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 150) Sistem Informasi Akademik (SIAKAD)",
+          "description": "by Adhi Ariyadi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-30T08:12:13Z",
+            "owner": "adhiariyadi",
+            "repo": "Sistem-Informasi-Akademik-Sekolah-Laravel",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 289) Starback.js",
+          "description": "by Ahmad Saugi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-02T03:31:28Z",
+            "owner": "zuramai",
+            "repo": "starback.js",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 243) Sawa",
+          "description": "by Rony Lantip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-03T16:05:50Z",
+            "owner": "lantip",
+            "repo": "sawa",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 24) Skilline Landing Page",
+          "description": "by Muhaecal D. Khatami",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-03-27T07:04:18Z",
+            "owner": "mhaecal",
+            "repo": "skilline-landing-page",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 150) Swime",
+          "description": "by Sendy Halim",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2022-01-27T17:56:13Z",
+            "owner": "sendyhalim",
+            "repo": "Swime",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 101) Screenshot",
+          "description": "by Frans Allen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-14T16:16:34Z",
+            "owner": "staticallyio",
+            "repo": "screenshot",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 97) SonWan UI",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-03-25T00:18:39Z",
+            "owner": "sonnylazuardi",
+            "repo": "sonwan-ui",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 19) Sistem Informasi Perpustakaan",
+          "description": "by Fauzan Falah",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-01-24T08:00:58Z",
+            "owner": "fauzan1892",
+            "repo": "perpus-ci3",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) Svelte-MPA",
+          "description": "by Kiswono Prayogo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-30T10:19:26Z",
+            "owner": "kokizzu",
+            "repo": "svelte-mpa",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 84) SFMediaStream",
+          "description": "by ScarletsFiction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T15:04:36Z",
+            "owner": "ScarletsFiction",
+            "repo": "SFMediaStream",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 22) ScarletsFrame",
+          "description": "by ScarletsFiction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-18T05:41:50Z",
+            "owner": "ScarletsFiction",
+            "repo": "ScarletsFrame",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) sekolah",
+          "description": "by Hendi Santika",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T23:30:40Z",
+            "owner": "hendisantika",
+            "repo": "sekolah",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) Satpam",
+          "description": "by Cermati.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T04:36:55Z",
+            "owner": "cermati",
+            "repo": "satpam",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Snake Boxes",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-05T09:16:55Z",
+            "owner": "BillyFrcs",
+            "repo": "SnakeBoxes",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) SPPIE",
+          "description": "by Syauqizaidan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-06-10T22:38:41Z",
+            "owner": "syauqi",
+            "repo": "sppie",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Sunda.js",
+          "description": "by Nourman Hajar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-11-14T11:05:38Z",
+            "owner": "masnormen",
+            "repo": "sunda.js",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) Racer Eternity",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-11T14:16:39Z",
+            "owner": "BillyFrcs",
+            "repo": "RacerEternity",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Sistem Pembayaran SPP Berbasis Web",
+          "description": "by Rafli Surya P",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-11-01T03:34:40Z",
+            "owner": "RSurya99",
+            "repo": "sistem-pembayaran-spp-django",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) Seletube",
+          "description": "by Alfian Andi Nugraha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-28T12:25:44Z",
+            "owner": "alfianandinugraha",
+            "repo": "seletube",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) SiJago (GraphQL Client)",
+          "description": "by Restu Wahyu Saputra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-16T15:52:59Z",
+            "owner": "restuwahyu13",
+            "repo": "sijago",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Snake Lol",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-19T09:51:11Z",
+            "owner": "BillyFrcs",
+            "repo": "SnakeLol",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Shipless Play",
+          "description": "by Ship Less",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-28T04:52:06Z",
+            "owner": "malessui",
+            "repo": "play",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Snowflake",
+          "description": "by Juan Christian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-06T18:20:07Z",
+            "owner": "HotPotatoC",
+            "repo": "snowflake",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) sigma-ciphers-cryptograms",
+          "description": "by Muhammad Asthi Seta Ari Yuwana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-01T10:09:17Z",
+            "owner": "AkuraDiary",
+            "repo": "sigma_ciphers_cryptograms",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) sen.js",
+          "description": "by Jamastek",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-18T05:23:13Z",
+            "owner": "jamastek",
+            "repo": "sen",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) Shooter Glow",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-30T05:21:39Z",
+            "owner": "BillyFrcs",
+            "repo": "ShooterGlow",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 29) Share",
+          "description": "by Shulhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-09T08:56:32Z",
+            "owner": "shuLhan",
+            "repo": "share",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Runner Man",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-26T15:58:48Z",
+            "owner": "BillyFrcs",
+            "repo": "RunnerMan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Skeduler",
+          "description": "by dafiulh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-23T03:09:46Z",
+            "owner": "daflh",
+            "repo": "skeduler",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "S"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 6,222) TheFatRat",
+          "description": "by Edo Maland",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-17T12:09:38Z",
+            "owner": "screetsec",
+            "repo": "TheFatRat",
+            "stars": 11404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2,090) tinyhttp",
+          "description": "by tinyhttp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:53:34Z",
+            "owner": "tinyhttp",
+            "repo": "tinyhttp",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 319) thedev.id",
+          "description": "by Frans Allen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-19T06:16:49Z",
+            "owner": "thedev-id",
+            "repo": "thedev.id",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 119) Tailwind VPN Landingpage - Free Landingpage Template Apps",
+          "description": "by Naufaldi",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-15T12:16:47Z",
+            "owner": "naufaldi",
+            "repo": "next-landing-vpn",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 325) Twitter Clone",
+          "description": "by Juan Christian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-01T17:09:56Z",
+            "owner": "HotPotatoC",
+            "repo": "twitter-clone",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 168) tinyws",
+          "description": "by tinyhttp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T08:42:53Z",
+            "owner": "tinyhttp",
+            "repo": "tinyws",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 28) TikTok Downloader",
+          "description": "by Hanif Dwy Putra S",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:08:41Z",
+            "owner": "hansputera",
+            "repo": "tiktok-dl",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 37) Termux WhatsApp Bot",
+          "description": "by taqin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-12T00:54:22Z",
+            "owner": "fdciabdul",
+            "repo": "termux-whatsapp-bot",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 81) tempe",
+          "description": "by Dimitrij Agal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T04:30:20Z",
+            "owner": "masbagal",
+            "repo": "tempe",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 53) theme-in-css",
+          "description": "by Fatih Kalifa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T04:57:30Z",
+            "owner": "pveyes",
+            "repo": "theme-in-css",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 13) Terjang",
+          "description": "by Andy Librian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-10-23T10:10:47Z",
+            "owner": "andylibrian",
+            "repo": "terjang",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) Tebak Masa",
+          "description": "by Ariya Hidayat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-24T15:52:58Z",
+            "owner": "ariya",
+            "repo": "tebakmasa",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Tiny HTTP Client",
+          "description": "by Hanif Dwy Putra S",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-05-15T13:32:02Z",
+            "owner": "hansputera",
+            "repo": "tiny-http",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) TungTang - Hitung Tanggal",
+          "description": "by Dimitrij Agal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-28T16:00:22Z",
+            "owner": "masbagal",
+            "repo": "tungtang",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) TafsirQ API",
+          "description": "by Yoga Anugrah Pratama. SY",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-02-01T23:55:36Z",
+            "owner": "YogaAPSY",
+            "repo": "tafsirq-api",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 14) Timetheft.js",
+          "description": "by Fauzan",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) Tweet To Blog [Node.js]",
+          "description": "by Hilman Ramadhan",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Tempeh Engine",
+          "description": "by Shaderboi Software",
+          "children": []
+        }
+      ],
+      "title": "T"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 93) UNK",
+          "description": "by Herpiko Dwi Aguno",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-02T06:43:20Z",
+            "owner": "herpiko",
+            "repo": "unk",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 11) UANGKU - EASY TRACKING YOUR MONEY",
+          "description": "by Fika Ridaul Maulayya",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-05T00:42:37Z",
+            "owner": "maulayyacyber",
+            "repo": "uangku-laravel",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "U"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 359) Voler",
+          "description": "by Ahmad Saugi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-15T02:33:20Z",
+            "owner": "zuramai",
+            "repo": "voler",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 119) Vredeburg",
+          "description": "by dafiulh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2023-10-03T18:40:18Z",
+            "owner": "daflh",
+            "repo": "vredeburg",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 38) visitor-badge",
+          "description": "by Feri Irawan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-17T05:07:23Z",
+            "owner": "feri-irawan",
+            "repo": "visitor-badge",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 24) Virdina-Brainly",
+          "description": "by Virdio Samuel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-26T09:19:09Z",
+            "owner": "diosamuel",
+            "repo": "Virdina-Brainly",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) VSCode Waktu Sholat",
+          "description": "by David Adi Nugroho",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-25T14:35:59Z",
+            "owner": "lakuapik",
+            "repo": "vscode-waktusholat",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 8) VSCode jsdoc-generator",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-18T16:53:21Z",
+            "owner": "kimlimjustin",
+            "repo": "vscode-jsdoc-generator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) Visual Programming",
+          "description": "by Billy Franscois",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic .NET",
+            "last_commit": "2022-08-24T05:03:34Z",
+            "owner": "BillyFrcs",
+            "repo": "VisualProgramming",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 223) Video Stream",
+          "description": "by levina",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-21T09:31:19Z",
+            "owner": "levina-lab",
+            "repo": "video-stream",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "V"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 374) wilayah",
+          "description": "by Cahya DSN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SQL",
+            "last_commit": "2026-08-13T00:47:24Z",
+            "owner": "cahyadsn",
+            "repo": "wilayah",
+            "stars": 1259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 781) Wilayah Administratif Indonesia",
+          "description": "by Edward Samuel Pasaribu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-11T18:02:50Z",
+            "owner": "edwardsamuel",
+            "repo": "Wilayah-Administratif-Indonesia",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 330) Watermark KTP",
+          "description": "by Sirilius Kevin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-23T17:29:19Z",
+            "owner": "watermarkktp",
+            "repo": "watermarkktp",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 153) Whatsapp Analyzer",
+          "description": "by Ikhwan Maftuh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-31T16:32:51Z",
+            "owner": "PetengDedet",
+            "repo": "WhatsApp-Analyzer",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 35) whatsapp-clone",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T16:31:48Z",
+            "owner": "kimlimjustin",
+            "repo": "whatsapp-clone",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 34) webperf-ecommerce-id",
+          "description": "by Irfan Maulana",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-08T03:08:56Z",
+            "owner": "mazipan",
+            "repo": "webperf-ecommerce-id",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 16) WA Terminal",
+          "description": "by Aziz Fikri",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-29T14:56:17Z",
+            "owner": "afikrim",
+            "repo": "wa-terminal",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 9) Windgraph",
+          "description": "by Cristopher",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-06-14T03:38:48Z",
+            "owner": "Namchee",
+            "repo": "windgraph",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 3) Wiz",
+          "description": "by Justin Maximillian Kimlim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-19T08:38:24Z",
+            "owner": "kimlimjustin",
+            "repo": "wiz",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 7) Writter",
+          "description": "by Kontenbase Team",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-30T16:55:36Z",
+            "owner": "kontenbase-team",
+            "repo": "writter",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 2) WaktuShalat",
+          "description": "by Muhammad Arfan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-06T12:05:16Z",
+            "owner": "Tosca01",
+            "repo": "WaktuShalat",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 328) Whatsapp API Tutorial",
+          "description": "by Nur Muhammad",
+          "children": []
+        }
+      ],
+      "title": "W"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 5) Youtube-Lyrics-Finder",
+          "description": "by taqin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-18T05:55:31Z",
+            "owner": "fdciabdul",
+            "repo": "Youtube-Lyrics-Finder",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 1) YADPF",
+          "description": "by Auralius Manurung",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-11-25T14:53:02Z",
+            "owner": "auralius",
+            "repo": "yadpf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 0) Yourduit",
+          "description": "by Alfian Andi Nugraha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-11T14:26:09Z",
+            "owner": "alfianandinugraha",
+            "repo": "yourduit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Y"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(⭐ 14) zman",
+          "description": "by Azzam S.A.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-10T15:25:03Z",
+            "owner": "azzamsa",
+            "repo": "zman",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 15) ZippyDamn!",
+          "description": "by Virdio Samuel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-24T14:11:52Z",
+            "owner": "diosamuel",
+            "repo": "zippydamn",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) ZippyDamn-lib!",
+          "description": "by Virdio Samuel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-24T14:12:33Z",
+            "owner": "diosamuel",
+            "repo": "zippydamn-lib",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Z"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:26.790Z",
+    "original_repository": "rujukan/made-in-indonesia",
+    "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
+    "enhanced_repository": "enhansome/enhansome-made-in-indonesia",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🇮🇩 made in indonesia with stars"
+  }
+}
