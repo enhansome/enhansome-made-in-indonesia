@@ -14,7 +14,7 @@
             "last_commit": "2026-03-02T11:56:23Z",
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21563
+            "stars": 21566
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-05-26T13:17:13Z",
             "owner": "myugan",
             "repo": "awesome-cicd-security",
-            "stars": 836
+            "stars": 837
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T18:40:58Z",
+            "last_commit": "2026-08-14T18:25:37Z",
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186
@@ -328,7 +328,7 @@
             "last_commit": "2025-10-29T04:08:25Z",
             "owner": "Blackprint",
             "repo": "Blackprint",
-            "stars": 216
+            "stars": 222
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12022
+            "stars": 12023
           }
         },
         {
@@ -1478,7 +1478,7 @@
             "last_commit": "2026-01-25T01:00:57Z",
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1356
+            "stars": 1357
           }
         },
         {
@@ -1593,7 +1593,7 @@
           "repo_info": {
             "archived": false,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-13T14:00:16Z",
+            "last_commit": "2026-08-15T01:26:41Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 238
@@ -1813,7 +1813,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:01:26Z",
+            "last_commit": "2026-08-14T15:55:59Z",
             "owner": "pveyes",
             "repo": "katla",
             "stars": 145
@@ -1990,7 +1990,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -2656,7 +2656,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29455
+            "stars": 29454
           }
         },
         {
@@ -2670,7 +2670,7 @@
             "last_commit": "2026-07-06T14:45:33Z",
             "owner": "adeyosemanputra",
             "repo": "pygoat",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -3218,7 +3218,7 @@
             "last_commit": "2026-07-06T03:02:26Z",
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3752
+            "stars": 3753
           }
         },
         {
@@ -3232,7 +3232,7 @@
             "last_commit": "2024-06-27T10:07:42Z",
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2422
+            "stars": 2424
           }
         },
         {
@@ -3330,7 +3330,7 @@
             "last_commit": "2021-03-27T07:04:18Z",
             "owner": "mhaecal",
             "repo": "skilline-landing-page",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -3700,7 +3700,7 @@
             "last_commit": "2024-03-17T12:09:38Z",
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11404
+            "stars": 11407
           }
         },
         {
@@ -3728,7 +3728,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1682
+            "stars": 1684
           }
         },
         {
@@ -3781,7 +3781,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:53:53Z",
+            "last_commit": "2026-08-14T19:09:03Z",
             "owner": "hansputera",
             "repo": "tiktok-dl",
             "stars": 161
@@ -4128,7 +4128,7 @@
             "last_commit": "2023-08-31T16:32:51Z",
             "owner": "PetengDedet",
             "repo": "WhatsApp-Analyzer",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -4336,7 +4336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:16:13.179Z",
+    "last_updated": "2026-08-15T02:05:10.270Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
     "enhanced_repository": "enhansome/enhansome-made-in-indonesia",
