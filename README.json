@@ -84,7 +84,7 @@
             "last_commit": "2023-10-05T10:04:28Z",
             "owner": "myugan",
             "repo": "awesome-linux-customization",
-            "stars": 357
+            "stars": 356
           }
         },
         {
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T10:00:08Z",
+            "last_commit": "2026-08-16T12:10:24Z",
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186
@@ -314,7 +314,7 @@
             "last_commit": "2025-10-29T04:08:25Z",
             "owner": "Blackprint",
             "repo": "Blackprint",
-            "stars": 228
+            "stars": 240
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-12T22:57:44Z",
             "owner": "wisnukurniawan",
             "repo": "Compose-ToDo",
-            "stars": 449
+            "stars": 448
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2022-05-09T15:25:32Z",
             "owner": "andre12001",
             "repo": "DWAdmin-Template",
-            "stars": 133
+            "stars": 132
           }
         },
         {
@@ -1593,7 +1593,7 @@
           "repo_info": {
             "archived": false,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-16T02:12:19Z",
+            "last_commit": "2026-08-16T03:43:45Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 238
@@ -1813,7 +1813,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T15:25:54Z",
+            "last_commit": "2026-08-16T15:26:00Z",
             "owner": "pveyes",
             "repo": "katla",
             "stars": 145
@@ -1990,7 +1990,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1487
+            "stars": 1488
           }
         },
         {
@@ -2656,7 +2656,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29454
+            "stars": 29456
           }
         },
         {
@@ -2906,7 +2906,7 @@
             "last_commit": "2025-07-23T07:07:12Z",
             "owner": "gadingnst",
             "repo": "quran-api",
-            "stars": 817
+            "stars": 818
           }
         },
         {
@@ -3243,7 +3243,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T12:49:20Z",
+            "last_commit": "2026-08-16T06:04:55Z",
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
             "stars": 734
@@ -3700,7 +3700,7 @@
             "last_commit": "2024-03-17T12:09:38Z",
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11411
+            "stars": 11415
           }
         },
         {
@@ -3728,7 +3728,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1685
+            "stars": 1686
           }
         },
         {
@@ -4083,10 +4083,10 @@
           "repo_info": {
             "archived": false,
             "language": "SQL",
-            "last_commit": "2026-08-15T02:36:42Z",
+            "last_commit": "2026-08-16T04:19:53Z",
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1264
+            "stars": 1265
           }
         },
         {
@@ -4336,7 +4336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:12:43.946Z",
+    "last_updated": "2026-08-17T02:10:30.038Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
     "enhanced_repository": "enhansome/enhansome-made-in-indonesia",
