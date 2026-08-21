@@ -15,7 +15,7 @@
             "last_commit": "2026-03-02T11:56:23Z",
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21575
+            "stars": 21574
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-08T16:59:56Z",
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 762
+            "stars": 763
           }
         },
         {
@@ -99,10 +99,10 @@
           "description": "by Fauzan Falah",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "id": 203332169,
             "language": "CSS",
-            "last_commit": "2025-09-20T11:36:13Z",
+            "last_commit": "2026-08-20T21:49:12Z",
             "owner": "fauzan1892",
             "repo": "pos-kasir-php",
             "stars": 257
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 111364643,
             "language": null,
-            "last_commit": "2026-08-19T16:23:05Z",
+            "last_commit": "2026-08-20T17:19:49Z",
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186
@@ -260,21 +260,6 @@
         },
         {
           "node_type": "item",
-          "title": "(⭐ 6) AidenBot",
-          "description": "by Sage Abdullah",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 109224294,
-            "language": "Python",
-            "last_commit": "2023-02-16T04:12:39Z",
-            "owner": "laymonage",
-            "repo": "AidenBot",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "(⭐ 3) Al-Qur'an JSON API [id-ID]",
           "description": "by Ryan Aunur Rassyid",
           "children": [],
@@ -285,6 +270,21 @@
             "last_commit": "2020-02-25T22:24:04Z",
             "owner": "nyancodeid",
             "repo": "quran-api-go",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 6) AidenBot",
+          "description": "by Sage Abdullah",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109224294,
+            "language": "Python",
+            "last_commit": "2023-02-16T04:12:39Z",
+            "owner": "laymonage",
+            "repo": "AidenBot",
             "stars": 6
           }
         }
@@ -411,7 +411,7 @@
             "last_commit": "2025-09-16T20:59:44Z",
             "owner": "azzamsa",
             "repo": "bilal",
-            "stars": 64
+            "stars": 62
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-02-22T04:05:13Z",
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1949
+            "stars": 1950
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12037
+            "stars": 12043
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2024-07-12T00:10:07Z",
             "owner": "pveyes",
             "repo": "htmr",
-            "stars": 524
+            "stars": 523
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "archived": false,
             "id": 32196209,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-19T21:46:48Z",
+            "last_commit": "2026-08-20T11:15:10Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 239
@@ -1845,7 +1845,7 @@
             "last_commit": "2024-08-05T09:59:27Z",
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1064
+            "stars": 1065
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "archived": false,
             "id": 449979751,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:35:43Z",
+            "last_commit": "2026-08-20T15:37:31Z",
             "owner": "pveyes",
             "repo": "katla",
             "stars": 146
@@ -2076,7 +2076,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1488
+            "stars": 1489
           }
         },
         {
@@ -2706,10 +2706,10 @@
             "archived": false,
             "id": 59355182,
             "language": "PHP",
-            "last_commit": "2026-08-19T06:04:29Z",
+            "last_commit": "2026-08-20T05:57:02Z",
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1220
+            "stars": 1221
           }
         },
         {
@@ -3177,7 +3177,7 @@
             "last_commit": "2024-02-29T03:50:42Z",
             "owner": "rakit",
             "repo": "validation",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -3363,7 +3363,7 @@
             "last_commit": "2026-07-06T03:02:26Z",
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3756
+            "stars": 3758
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2024-06-27T10:07:42Z",
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2424
+            "stars": 2425
           }
         },
         {
@@ -3393,7 +3393,7 @@
             "last_commit": "2026-08-18T13:17:06Z",
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -3879,7 +3879,7 @@
             "last_commit": "2024-03-17T12:09:38Z",
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11419
+            "stars": 11423
           }
         },
         {
@@ -3909,7 +3909,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1689
+            "stars": 1690
           }
         },
         {
@@ -4532,7 +4532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:08:24.437Z",
+    "last_updated": "2026-08-21T02:14:39.603Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_id": 466290860,
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
