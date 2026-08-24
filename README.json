@@ -15,7 +15,7 @@
             "last_commit": "2026-03-02T11:56:23Z",
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21580
+            "stars": 21578
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-06-06T15:32:25Z",
             "owner": "satyawikananda",
             "repo": "cardivo",
-            "stars": 94
+            "stars": 93
           }
         },
         {
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 189592948,
             "language": "AppleScript",
-            "last_commit": "2026-08-04T07:22:05Z",
+            "last_commit": "2026-08-24T00:38:55Z",
             "owner": "pengelana",
             "repo": "blocklist",
             "stars": 420
@@ -1005,7 +1005,7 @@
             "last_commit": "2024-09-11T03:39:22Z",
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12050
+            "stars": 12052
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "archived": false,
             "id": 449979751,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:25:53Z",
+            "last_commit": "2026-08-23T15:26:38Z",
             "owner": "pveyes",
             "repo": "katla",
             "stars": 146
@@ -2628,7 +2628,7 @@
             "last_commit": "2026-01-26T23:17:15Z",
             "owner": "kulkultech",
             "repo": "ngecilin",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2024-06-27T10:07:42Z",
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2427
+            "stars": 2429
           }
         },
         {
@@ -3390,7 +3390,7 @@
             "archived": false,
             "id": 77564881,
             "language": "Java",
-            "last_commit": "2026-08-18T13:17:06Z",
+            "last_commit": "2026-08-23T09:57:29Z",
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
             "stars": 736
@@ -3879,7 +3879,7 @@
             "last_commit": "2024-03-17T12:09:38Z",
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11429
+            "stars": 11432
           }
         },
         {
@@ -3909,7 +3909,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1691
+            "stars": 1693
           }
         },
         {
@@ -3969,7 +3969,7 @@
             "last_commit": "2026-08-21T18:05:33Z",
             "owner": "hansputera",
             "repo": "tiktok-dl",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -4146,7 +4146,7 @@
             "last_commit": "2026-04-15T02:33:20Z",
             "owner": "zuramai",
             "repo": "voler",
-            "stars": 564
+            "stars": 563
           }
         },
         {
@@ -4272,7 +4272,7 @@
             "last_commit": "2026-08-19T01:11:40Z",
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1273
+            "stars": 1275
           }
         },
         {
@@ -4287,7 +4287,7 @@
             "last_commit": "2022-04-11T18:02:50Z",
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -4532,7 +4532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:15:48.850Z",
+    "last_updated": "2026-08-24T02:13:52.120Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_id": 466290860,
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
