@@ -15,7 +15,7 @@
             "last_commit": "2026-03-02T11:56:23Z",
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21578
+            "stars": 21579
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-20T21:49:12Z",
             "owner": "fauzan1892",
             "repo": "pos-kasir-php",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 111364643,
             "language": null,
-            "last_commit": "2026-08-22T18:03:47Z",
+            "last_commit": "2026-08-24T12:21:37Z",
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 158797604,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:27:46Z",
+            "last_commit": "2026-08-24T09:28:08Z",
             "owner": "mazipan",
             "repo": "baca-quran.id",
             "stars": 435
@@ -336,7 +336,7 @@
             "last_commit": "2025-10-29T04:08:25Z",
             "owner": "Blackprint",
             "repo": "Blackprint",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12052
+            "stars": 12053
           }
         },
         {
@@ -1542,7 +1542,7 @@
             "last_commit": "2026-01-25T01:00:57Z",
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1358
+            "stars": 1359
           }
         },
         {
@@ -1572,7 +1572,7 @@
             "last_commit": "2023-07-11T01:55:59Z",
             "owner": "gadingnst",
             "repo": "hadith-api",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 48455975,
             "language": "Java",
-            "last_commit": "2026-06-21T23:05:20Z",
+            "last_commit": "2026-08-24T14:02:34Z",
             "owner": "hendisantika",
             "repo": "HikariCP",
             "stars": 49
@@ -2337,7 +2337,7 @@
             "last_commit": "2025-08-05T13:45:33Z",
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -2706,10 +2706,10 @@
             "archived": false,
             "id": 59355182,
             "language": "PHP",
-            "last_commit": "2026-08-20T05:57:02Z",
+            "last_commit": "2026-08-24T08:49:59Z",
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1221
+            "stars": 1222
           }
         },
         {
@@ -2775,7 +2775,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29451
+            "stars": 29452
           }
         },
         {
@@ -3378,7 +3378,7 @@
             "last_commit": "2024-06-27T10:07:42Z",
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2429
+            "stars": 2431
           }
         },
         {
@@ -3423,7 +3423,7 @@
             "last_commit": "2026-04-10T20:49:00Z",
             "owner": "staticallyio",
             "repo": "statically",
-            "stars": 611
+            "stars": 610
           }
         },
         {
@@ -3600,7 +3600,7 @@
             "archived": false,
             "id": 247893718,
             "language": "JavaScript",
-            "last_commit": "2026-07-30T23:30:40Z",
+            "last_commit": "2026-08-24T14:02:54Z",
             "owner": "hendisantika",
             "repo": "sekolah",
             "stars": 25
@@ -3879,7 +3879,7 @@
             "last_commit": "2024-03-17T12:09:38Z",
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11432
+            "stars": 11435
           }
         },
         {
@@ -4146,7 +4146,7 @@
             "last_commit": "2026-04-15T02:33:20Z",
             "owner": "zuramai",
             "repo": "voler",
-            "stars": 563
+            "stars": 564
           }
         },
         {
@@ -4269,10 +4269,10 @@
             "archived": false,
             "id": 79108501,
             "language": "SQL",
-            "last_commit": "2026-08-19T01:11:40Z",
+            "last_commit": "2026-08-24T03:45:37Z",
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1275
+            "stars": 1277
           }
         },
         {
@@ -4287,7 +4287,7 @@
             "last_commit": "2022-04-11T18:02:50Z",
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -4532,7 +4532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:13:52.120Z",
+    "last_updated": "2026-08-24T14:42:56.199Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_id": 466290860,
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",

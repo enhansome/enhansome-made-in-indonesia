@@ -10,16 +10,16 @@
 
 ## A
 
-1. (⭐ 3,565) [Automa](https://github.com/Kholid060/automa) ⭐ 21,578 | 🐛 375 | 🌐 Vue | 📅 2026-03-02 - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
+1. (⭐ 3,565) [Automa](https://github.com/Kholid060/automa) ⭐ 21,579 | 🐛 375 | 🌐 Vue | 📅 2026-03-02 - `A chrome extension for automating your browser by connecting blocks` *by [Ahmad Kholid](https://github.com/Kholid060)*
 2. (⭐ 1,543) [avatar](https://github.com/laravolt/avatar) ⭐ 1,982 | 🐛 1 | 🌐 PHP | 📅 2026-08-06 - `Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.` *by [Laravolt](https://github.com/laravolt)*
 3. (⭐ 298) [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security) ⭐ 838 | 🐛 7 | 📅 2026-05-26 - `A curated list of awesome CI CD security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 4. (⭐ 634) [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) ⭐ 763 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-08 - `A curated list of amazingly awesome repository created and contributed by Indonesian people.` *by [GitIndonesia](https://github.com/GitIndonesia)*
 5. (⭐ 391) [Awesome Docker Security](https://github.com/myugan/awesome-docker-security) ⭐ 723 | 🐛 4 | 📅 2026-02-28 - `A curated list of awesome Docker security resources` *by [Muhammad Yuga N.](https://github.com/myugan)*
 6. (⭐ 142) [Awesome Linux Customization](https://github.com/myugan/awesome-linux-customization) ⭐ 356 | 🐛 3 | 📅 2023-10-05 - ` An awesome list of customization tools for your UN*X/Linux desktop.` *by [Muhammad Yuga N.](https://github.com/myugan)*
-7. (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) ⭐ 257 | 🐛 0 | 🌐 CSS | 📅 2026-08-20 - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
+7. (⭐ 64) [Aplikasi Penjualan Barang (Kasir)](https://github.com/fauzan1892/pos-kasir-php) ⭐ 258 | 🐛 0 | 🌐 CSS | 📅 2026-08-20 - `Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.` *by [Fauzan Falah](https://github.com/fauzan1892)*
 8. (⭐ 78) [API Hari Libur](https://github.com/satyakresna/api-harilibur) ⭐ 236 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-01 - `API Hari Libur Nasional di Indonesia. Tanggal merah di kalender bisa menyenangkan semua orang` *by [Kresna](https://github.com/satyakresna)*
 9. (⭐ 159) [Aksara UI](https://github.com/kata-ai/aksara-ui) ⭐ 194 | 🐛 28 | 🌐 TypeScript | 📅 2023-03-06 - `Aksara Design System, from Kata.ai.` *by [kata.ai](https://github.com/kata-ai)*
-10. (⭐ 121) [AdBlockID](https://github.com/realodix/AdBlockID) ⭐ 186 | 🐛 2 | 📅 2026-08-22 - `An effective filter for removing most ads on Indonesian and Malaysian websites. ` *by [ realodix ](https://github.com/realodix)*
+10. (⭐ 121) [AdBlockID](https://github.com/realodix/AdBlockID) ⭐ 186 | 🐛 2 | 📅 2026-08-24 - `An effective filter for removing most ads on Indonesian and Malaysian websites. ` *by [ realodix ](https://github.com/realodix)*
 11. (⭐ 45) [Aperture](https://github.com/pveyes/aperture) ⭐ 72 | 🐛 0 | 📅 2022-07-16 - `Color theme for VSCode to help you focus` *by [Fatih Kalifa](https://github.com/pveyes)*
 12. (⭐ 58) [ApiRateLimitBundle](https://github.com/IndraGunawan/api-rate-limit-bundle) ⭐ 68 | 🐛 7 | 🌐 PHP | 📅 2022-05-12 - `Rate limits protection for api-platform resources.` *by [Indra Gunawan](https://github.com/IndraGunawan)*
 13. (⭐ 24) [Arisan](https://github.com/nafiesl/arisan) ⭐ 30 | 🐛 2 | 🌐 PHP | 📅 2025-02-15 - `Sistem pengelolaan grup arisan berbasis web yang dibangun dengan Laravel 5.` *by [Nafies Luthfi](https://github.com/nafiesl)*
@@ -35,8 +35,8 @@
 ## B
 
 1. (⭐ 502) [bebasid](https://github.com/bebasid/bebasid) ⭐ 914 | 🐛 0 | 🌐 Shell | 📅 2026-08-12 - `bebasid dapat membantu membuka halaman situs web yang diblokir dengan memanfaatkan hosts file.` *by [bebasid oleh KINI](https://github.com/bebasid)*
-2. (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) ⭐ 435 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-17 - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
-3. (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) ⭐ 242 | 🐛 5 | 🌐 JavaScript | 📅 2025-10-29 - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
+2. (⭐ 307) [baca-quran.id](https://github.com/mazipan/baca-quran.id) ⭐ 435 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24 - `Read Qur'an from Your Web Browser. No Ads, No Analytics, It's Totally Free` *by [Irfan Maulana](https://github.com/mazipan)*
+3. (⭐ 61) [Blackprint](https://github.com/Blackprint/Blackprint) ⭐ 243 | 🐛 5 | 🌐 JavaScript | 📅 2025-10-29 - `A general purpose visual programming. This is the main repository for Blackprint that contains source code of cable, node, and container sketch for visualization.` *by [StefansArya](https://github.com/StefansArya)*
 4. (⭐ 151) [Belajar git](https://github.com/petanikode/belajar-git) ⭐ 225 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-12 - `Tutorial Git dalam Bahasa Indonesia` *by [Petani Kode](https://github.com/petanikode)*
 5. (⭐ 12) [Barka](https://github.com/dikisiswanto/barka) ⭐ 200 | 🐛 1 | 🌐 PHP | 📅 2022-05-29 - `Tema untuk CMS Sekolahku` *by [Diki Siswanto](https://github.com/dikisiswanto)*
 6. (⭐ 80) [Bloggerpack](https://github.com/bloggerpack/bloggerpack) ⭐ 112 | 🐛 13 | 🌐 JavaScript | 📅 2023-01-06 - `A tool for develop Blogger theme.` *by [Igoy Nawamreh](https://github.com/igoynawamreh)*
@@ -103,7 +103,7 @@
 
 ## F
 
-1. (⭐ 443) [FreeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,951 | 🐛 360 | 🌐 Astro | 📅 2026-02-22 - `list of free stuff for developer` *by [Hilman Ramadhan](https://github.com/hilmanski)*
+1. (⭐ 443) [FreeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,951 | 🐛 361 | 🌐 Astro | 📅 2026-02-22 - `list of free stuff for developer` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 2. (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) ⭐ 1,222 | 🐛 57 | 🌐 PHP | 📅 2024-09-11 - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 3. (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) ⭐ 462 | 🐛 6 | 🌐 PHP | 📅 2026-07-12 - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 4. (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) ⭐ 44 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-16 - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
@@ -122,7 +122,7 @@
 
 ## G
 
-1. (⭐ 1,565) [giscus](https://github.com/giscus/giscus) ⭐ 12,052 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
+1. (⭐ 1,565) [giscus](https://github.com/giscus/giscus) ⭐ 12,053 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
 2. (⭐ 185) [Grosir Obat](https://github.com/nafiesl/grosir-obat) ⭐ 259 | 🐛 0 | 🌐 PHP | 📅 2021-05-31 - `Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 3. (⭐ 96) [GraphQL for PokeAPI](https://github.com/mazipan/graphql-pokeapi) ⭐ 189 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-11 - `The Unofficial GraphQL for PokeAPI` *by [Irfan Maulana](https://github.com/mazipan)*
 4. (⭐ 116) [Globe 3D](https://github.com/sonnylazuardi/globe-3d) ⭐ 161 | 🐛 1 | 🌐 TypeScript | 📅 2021-09-16 - `Convert your design to 3D Globe. Create an Interactive 3D globe based on your flat world map design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
@@ -150,12 +150,12 @@
 
 ## H
 
-1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) ⭐ 1,358 | 🐛 52 | 🌐 PHP | 📅 2026-01-25 - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
+1. (⭐ 776) [HTMLy](https://github.com/danpros/htmly) ⭐ 1,359 | 🐛 52 | 🌐 PHP | 📅 2026-01-25 - `HTMLy is an open source Databaseless Blogging Platform or Flat-File Blog prioritizes simplicity and speed written in PHP. HTMLy can be referred to as Flat-File CMS either since it will also manage your content.` *by [Danang Probo Sayekti](https://github.com/danpros)*
 2. (⭐ 468) [htmr](https://github.com/pveyes/htmr) ⭐ 523 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-12 - `Simple and lightweight (< 2kB) HTML string to React element conversion library` *by [Fatih Kalifa](https://github.com/pveyes)*
-3. (⭐ 147) [Hadith - API](https://github.com/gadingnst/hadith-api) ⭐ 397 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-11 - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/gadingnst)*
+3. (⭐ 147) [Hadith - API](https://github.com/gadingnst/hadith-api) ⭐ 398 | 🐛 6 | 🌐 TypeScript | 📅 2023-07-11 - `Simple Islamic Hadith API with Indonesia Translation.` *by [Gading Nasution](https://github.com/gadingnst)*
 4. (⭐ 9) [Holy Quran with Colorful Tajweed Anotation](https://github.com/kodepandai/colorful-quran) ⭐ 72 | 🐛 5 | 🌐 TypeScript | 📅 2024-07-08 - `Holy Qur'an with colorfull tajweed anotation` *by [Kode Pandai](https://github.com/kodepandai)*
 5. (⭐ 32) [Hugoblog](https://github.com/zuramai/hugoblog) ⭐ 53 | 🐛 1 | 🌐 HTML | 📅 2022-12-14 - `Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)` *by [Ahmad Saugi](https://github.com/zuramai)*
-6. (⭐ 44) [HikariCP](https://github.com/hendisantika/HikariCP) ⭐ 49 | 🐛 0 | 🌐 Java | 📅 2026-06-21 - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
+6. (⭐ 44) [HikariCP](https://github.com/hendisantika/HikariCP) ⭐ 49 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - `CRUD Spring Boot + Spring Data JPA + ThymeLeaf + HikariCP + MySQL` *by [Hendi Santika](https://github.com/hendisantika)*
 7. (⭐ 1) [Gabo](https://github.com/jamastek/gabo) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-18 - `Gabo: Gatsbyjs Boilerplate` *by [Jamastek](https://github.com/jamastek)*
 8. (⭐ 0) [horizon](https://github.com/RSurya99/horizon) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2022-03-08 - `Horizon: create custom keycaps for mechanical keyboard easily` *by [Rafli Surya P](https://github.com/RSurya99)*
 
@@ -229,7 +229,7 @@
 
 ## M
 
-1. (⭐ 966) [Mazer Dashboard](https://github.com/zuramai/mazer) ⭐ 3,098 | 🐛 16 | 🌐 HTML | 📅 2025-08-05 - `Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page` *by [Ahmad Saugi](https://github.com/zuramai)*
+1. (⭐ 966) [Mazer Dashboard](https://github.com/zuramai/mazer) ⭐ 3,099 | 🐛 16 | 🌐 HTML | 📅 2025-08-05 - `Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page` *by [Ahmad Saugi](https://github.com/zuramai)*
 2. (⭐ 109) [milliparsec](https://github.com/tinyhttp/milliparsec) ⭐ 207 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-14 - `Tiniest body parser in the universe. Built for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
 3. (⭐ 111) [Mecha CMS](https://github.com/mecha-cms/mecha) ⭐ 189 | 🐛 0 | 🌐 PHP | 📅 2026-05-16 - `Mecha is a free flat-file content management system (CMS) that carries the concept of minimalism.` *by [Taufik Nurrohman](https://github.com/taufik-nurrohman)*
 4. (⭐ 97) [Malibu](https://github.com/tinyhttp/malibu) ⭐ 164 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-08 - `Framework-agnostic CSRF middleware for modern Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
@@ -264,7 +264,7 @@
 
 ## O
 
-1. (⭐ 690) [OpenSID - Sistem Informasi Desa](https://github.com/OpenSID/OpenSID) ⭐ 1,221 | 🐛 356 | 🌐 PHP | 📅 2026-08-20 - `Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID` *by [Perkumpulan Desa Digital Terbuka](https://opendesa.id/)*
+1. (⭐ 690) [OpenSID - Sistem Informasi Desa](https://github.com/OpenSID/OpenSID) ⭐ 1,222 | 🐛 355 | 🌐 PHP | 📅 2026-08-24 - `Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID` *by [Perkumpulan Desa Digital Terbuka](https://opendesa.id/)*
 2. (⭐ 1) [OwnTest](https://github.com/rahmatagungj/owntest) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-16 - `Simple JavaScript Testing Framework with only one file and zero dependencies.` *by [Rahmat Agung Julians](https://github.com/rahmatagungj)*
 3. (⭐ 1) [One Day One Ayah](https://github.com/argaghulamahmad/one-day-one-ayah) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2022-04-12 - `Send a message, 5 times a day, that contains the Quran verse and Indonesian translation to your telegram bot. Created using Python and Github Action.` *by [Arga Ghulam Ahmad](https://github.com/argaghulamahmad)*
 4. (⭐ 1) [OpenGL Graphics API](https://github.com/BillyFrcs/OpenGLGraphics) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2022-08-25 - `2D & 3D Rendering Vector Graphics with Modern OpenGL C++.` *by [Billy Franscois](https://github.com/BillyFrcs)*
@@ -329,10 +329,10 @@
 ## S
 
 1. (⭐ 2,868) [Stisla](https://github.com/stisla/stisla) ⭐ 3,760 | 🐛 0 | 🌐 CSS | 📅 2026-07-06 - `Free Bootstrap Admin Template` *by [Stisla](https://github.com/stisla)*
-2. (⭐ 1,231) [Sudomy](https://github.com/screetsec/Sudomy) ⭐ 2,429 | 🐛 41 | 🌐 Shell | 📅 2024-06-27 - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
+2. (⭐ 1,231) [Sudomy](https://github.com/screetsec/Sudomy) ⭐ 2,431 | 🐛 41 | 🌐 Shell | 📅 2024-06-27 - `Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting` *by [Edo Maland](https://github.com/screetsec)*
 3. (⭐ 300) [SIMRS Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) ⭐ 736 | 🐛 9 | 🌐 Java | 📅 2026-08-23 - `Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia` *by [Mas Elkhanza](https://github.com/mas-elkhanza)*
 4. (⭐ 359) [Silsilah - Genealogy Application](https://github.com/nafiesl/silsilah) ⭐ 643 | 🐛 19 | 🌐 PHP | 📅 2024-11-11 - `A genealogy/family tree application, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
-5. (⭐ 464) [statically](https://github.com/staticallyio/statically) ⭐ 611 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-10 - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
+5. (⭐ 464) [statically](https://github.com/staticallyio/statically) ⭐ 610 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-10 - `The CDN for developers.` *by [Frans Allen](https://github.com/fransallen)*
 6. (⭐ 150) [Sistem Informasi Akademik (SIAKAD)](https://github.com/adhiariyadi/Sistem-Informasi-Akademik-Sekolah-Laravel) ⭐ 518 | 🐛 31 | 🌐 JavaScript | 📅 2023-07-30 - `Sistem Informasi Akademik Sekolah adalah Website untuk para siswa dapat melihat jadwal pelajaran, dan nilai rapot dan para guru dapat menambahkan nilai siswa dengan muda melalui website.` *by [
    Adhi Ariyadi](https://github.com/adhiariyadi)*
 7. (⭐ 289) [Starback.js](https://github.com/zuramai/starback.js) ⭐ 407 | 🐛 2 | 🌐 TypeScript | 📅 2024-07-02 - `Create a beautiful star falling background with starback.js` *by [Ahmad Saugi](https://github.com/zuramai)*
@@ -345,7 +345,7 @@
 14. (⭐ 15) [Svelte-MPA](https://github.com/kokizzu/svelte-mpa) ⭐ 106 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-30 - `Svelte Multi-Page App, change Svelte default component-based SPA into an statically-generated MPA` *by [Kiswono Prayogo](https://github.com/kokizzu)*
 15. (⭐ 84) [SFMediaStream](https://github.com/ScarletsFiction/SFMediaStream) ⭐ 103 | 🐛 10 | 🌐 JavaScript | 📅 2021-09-01 - `HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
 16. (⭐ 22) [ScarletsFrame](https://github.com/ScarletsFiction/ScarletsFrame) ⭐ 29 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-18 - `A frontend framework that can help you write performant complex web feature with low dev time and resource cost.` *by [ScarletsFiction](https://github.com/ScarletsFiction)*
-17. (⭐ 9) [sekolah](https://github.com/hendisantika/sekolah) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-30 - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
+17. (⭐ 9) [sekolah](https://github.com/hendisantika/sekolah) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-24 - `Aplikasi untuk Sekolah dengan Spring Boot PostgreSQL Database & Thymeleaf Template Engine` *by [Hendi Santika](https://github.com/hendisantika)*
 18. (⭐ 15) [Satpam](https://github.com/cermati/satpam) ⭐ 18 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-20 - `Javascript validation library, batteries included` *by [Cermati.com](https://github.com/cermati)*
 19. (⭐ 4) [Snake Boxes](https://github.com/BillyFrcs/SnakeBoxes) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2023-01-05 - `Simple 3D Snake Game Snake Boxes.` *by [Billy Franscois](https://github.com/BillyFrcs)*
 20. (⭐ 1) [SPPIE](https://github.com/syauqi/sppie) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2022-06-10 - `Aplikasi sistem pembayaran SPP dibuat dengan bahasa PHP dan framework Laravel` *by [Syauqizaidan](https://github.com/syauqi)*
@@ -368,9 +368,9 @@
 
 ## T
 
-1. (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,432 | 🐛 153 | 🌐 C | 📅 2024-03-17 - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
+1. (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,435 | 🐛 153 | 🌐 C | 📅 2024-03-17 - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
 2. (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) ⭐ 2,899 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-10 - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
-3. (⭐ 319) [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,693 | 🐛 336 | 🌐 HTML | 📅 2025-12-19 - `thedev.id is a free identity for developers on the web. This service offers a handy subdomain like foo.thedev.id or bar.thedev.id for use on your static sites via CNAME record. Fork, add subdomain and send a Pull Request. We will make it work.` *by [Frans Allen](https://github.com/fransallen)*
+3. (⭐ 319) [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,693 | 🐛 337 | 🌐 HTML | 📅 2025-12-19 - `thedev.id is a free identity for developers on the web. This service offers a handy subdomain like foo.thedev.id or bar.thedev.id for use on your static sites via CNAME record. Fork, add subdomain and send a Pull Request. We will make it work.` *by [Frans Allen](https://github.com/fransallen)*
 4. (⭐ 119) [Tailwind VPN Landingpage - Free Landingpage Template Apps](https://github.com/naufaldi/next-landing-vpn) ⚠️ Archived - `An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0` *by [Naufaldi](https://github.com/naufaldi)*
 5. (⭐ 325) [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) ⭐ 438 | 🐛 2 | 🌐 Go | 📅 2023-11-01 - `Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis` *by [Juan Christian](https://github.com/HotPotatoC)*
 6. (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) ⭐ 415 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-01 - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
@@ -398,7 +398,7 @@
 
 ## V
 
-1. (⭐ 359) [Voler](https://github.com/zuramai/voler) ⭐ 563 | 🐛 12 | 🌐 HTML | 📅 2026-04-15 - `The first Bootstrap 5 admin dashboard template` *by [Ahmad Saugi](https://github.com/zuramai)*
+1. (⭐ 359) [Voler](https://github.com/zuramai/voler) ⭐ 564 | 🐛 12 | 🌐 HTML | 📅 2026-04-15 - `The first Bootstrap 5 admin dashboard template` *by [Ahmad Saugi](https://github.com/zuramai)*
 2. (⭐ 119) [Vredeburg](https://github.com/dafiulh/vredeburg) ⭐ 206 | 🐛 6 | 🌐 Nunjucks | 📅 2023-10-03 - `A simple starter project to create a blog using Eleventy and Tailwind CSS` *by [dafiulh](https://github.com/dafiulh)*
 3. (⭐ 38) [visitor-badge](https://github.com/feri-irawan/visitor-badge) ⭐ 42 | 🐛 0 | 🌐 HTML | 📅 2022-10-17 - `Visitor Badge for your Web or Github repository` *by [Feri Irawan](https://github.com/feri-irawan)*
 4. (⭐ 24) [Virdina-Brainly](https://github.com/diosamuel/Virdina-Brainly) ⚠️ Archived - `Bot Whatsapp untuk brainly` *by [Virdio Samuel](https://github.com/diosamuel)*
@@ -411,8 +411,8 @@
 
 ## W
 
-1. (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) ⭐ 1,275 | 🐛 3 | 🌐 SQL | 📅 2026-08-19 - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
-2. (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) ⭐ 960 | 🐛 27 | 🌐 Python | 📅 2022-04-11 - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
+1. (⭐ 374) [wilayah](https://github.com/cahyadsn/wilayah) ⭐ 1,277 | 🐛 3 | 🌐 SQL | 📅 2026-08-24 - `Kode dan Data Wilayah Administrasi Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX.` *by [Cahya DSN](https://github.com/cahyadsn)*
+2. (⭐ 781) [Wilayah Administratif Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia) ⭐ 961 | 🐛 27 | 🌐 Python | 📅 2022-04-11 - `Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia` *by [Edward Samuel Pasaribu](https://github.com/edwardsamuel)*
 3. (⭐ 330) [Watermark KTP](https://github.com/sirilius/watermarkktp) ⭐ 403 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-23 - `Sebuah alat sederhana untuk menambahkan watermark pada scan KTP.` *by [Sirilius Kevin](https://github.com/sirilius)*
 4. (⭐ 153) [Whatsapp Analyzer](https://github.com/PetengDedet/WhatsApp-Analyzer) ⭐ 223 | 🐛 6 | 🌐 Python | 📅 2023-08-31 - `WhatsApp Chat analyzer` *by [Ikhwan Maftuh](https://github.com/PetengDedet)*
 5. (⭐ 35) [whatsapp-clone](https://github.com/kimlimjustin/whatsapp-clone) ⭐ 59 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-18 - `Web based Whatsapp clone with real time private chat and group chat features` *by [Justin Maximillian Kimlim](https://github.com/kimlimjustin)*
@@ -454,7 +454,7 @@
 
 <p align="right"><a href="#-made-in-indonesia">Top</a></p>
 
-<a href="https://github.com/anuuyu/made-in-indonesia" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#ff0000; color:#ffffff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a>
+[<svg width="80" height="80" viewBox="0 0 250 250" style="fill:#ff0000; color:#ffffff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg>](https://github.com/anuuyu/made-in-indonesia) ⭐ 104 | 🐛 4 | 🌐 HTML | 📅 2023-05-12
 
 <div class="header">
   <div class="progress-container">
