@@ -15,7 +15,7 @@
             "last_commit": "2026-03-02T11:56:23Z",
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21579
+            "stars": 21580
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2023-11-01T08:10:58Z",
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2024-09-11T03:39:22Z",
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1222
+            "stars": 1221
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12053
+            "stars": 12055
           }
         },
         {
@@ -1887,7 +1887,7 @@
             "archived": false,
             "id": 449979751,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T15:26:38Z",
+            "last_commit": "2026-08-24T15:42:39Z",
             "owner": "pveyes",
             "repo": "katla",
             "stars": 146
@@ -3036,7 +3036,7 @@
             "last_commit": "2025-07-23T07:07:12Z",
             "owner": "gadingnst",
             "repo": "quran-api",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -3393,7 +3393,7 @@
             "last_commit": "2026-08-23T09:57:29Z",
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -3909,7 +3909,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1693
+            "stars": 1694
           }
         },
         {
@@ -3966,7 +3966,7 @@
             "archived": false,
             "id": 424991110,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:05:33Z",
+            "last_commit": "2026-08-24T22:35:16Z",
             "owner": "hansputera",
             "repo": "tiktok-dl",
             "stars": 164
@@ -4532,7 +4532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:56.199Z",
+    "last_updated": "2026-08-25T02:09:51.400Z",
     "original_repository": "rujukan/made-in-indonesia",
     "original_repository_id": 466290860,
     "original_repository_sha": "a834dbc77a107dad2515c0f4adb53a9267c606a4",
