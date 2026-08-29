@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-02-22T04:05:13Z",
-            "open_issues": 364,
+            "open_issues": 365,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1952,
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12063,
+            "stars": 12062,
             "topics": [
               "blog",
               "comment-system",
@@ -7058,7 +7058,7 @@
             "open_issues": 153,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11443,
+            "stars": 11442,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1705,
+            "stars": 1706,
             "topics": [
               "developer-tools",
               "dns",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:24.917Z",
+    "last_updated": "2026-08-29T07:28:53.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",

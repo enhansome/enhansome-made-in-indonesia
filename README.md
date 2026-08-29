@@ -103,7 +103,7 @@
 
 ## F
 
-1. (⭐ 443) [FreeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,952 | 🐛 364 | 🌐 Astro | 📅 2026-02-22 - `list of free stuff for developer` *by [Hilman Ramadhan](https://github.com/hilmanski)*
+1. (⭐ 443) [FreeStuffDev](https://github.com/hilmanski/freeStuffDev) ⭐ 1,952 | 🐛 365 | 🌐 Astro | 📅 2026-02-22 - `list of free stuff for developer` *by [Hilman Ramadhan](https://github.com/hilmanski)*
 2. (⭐ 425) [FACEBOOK TOOLKIT](https://github.com/warifp/FacebookToolkit) ⭐ 1,222 | 🐛 57 | 🌐 PHP | 📅 2024-09-11 - `a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.` *by [Wahyu Arif Purnomo](https://github.com/warifp)*
 3. (⭐ 335) [Free PMO](https://github.com/nafiesl/free-pmo) ⭐ 462 | 🐛 6 | 🌐 PHP | 📅 2026-07-12 - `Project management software for freelancers or agencies, built with Laravel.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 4. (⭐ 11) [Flourite - Language detector](https://github.com/teknologi-umum/flourite) ⭐ 44 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-16 - `Automatically detects a programing language from a given string` *by [Teknologi Umum](https://github.com/teknologi-umum)*
@@ -122,7 +122,7 @@
 
 ## G
 
-1. (⭐ 1,565) [giscus](https://github.com/giscus/giscus) ⭐ 12,063 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
+1. (⭐ 1,565) [giscus](https://github.com/giscus/giscus) ⭐ 12,062 | 🐛 127 | 🌐 TypeScript | 📅 2026-05-26 - `A comments system powered by GitHub Discussions.` *by [Sage Abdullah](https://github.com/laymonage)*
 2. (⭐ 185) [Grosir Obat](https://github.com/nafiesl/grosir-obat) ⭐ 260 | 🐛 0 | 🌐 PHP | 📅 2021-05-31 - `Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.` *by [Nafies Luthfi](https://github.com/nafiesl)*
 3. (⭐ 96) [GraphQL for PokeAPI](https://github.com/mazipan/graphql-pokeapi) ⭐ 189 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-11 - `The Unofficial GraphQL for PokeAPI` *by [Irfan Maulana](https://github.com/mazipan)*
 4. (⭐ 116) [Globe 3D](https://github.com/sonnylazuardi/globe-3d) ⭐ 161 | 🐛 1 | 🌐 TypeScript | 📅 2021-09-16 - `Convert your design to 3D Globe. Create an Interactive 3D globe based on your flat world map design.` *by [Sonny Lazuardi](https://github.com/sonnylazuardi)*
@@ -368,9 +368,9 @@
 
 ## T
 
-1. (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,443 | 🐛 153 | 🌐 C | 📅 2024-03-17 - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
+1. (⭐ 6,222) [TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,442 | 🐛 153 | 🌐 C | 📅 2024-03-17 - `TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.` *by [Edo Maland](https://github.com/screetsec)*
 2. (⭐ 2,090) [tinyhttp](https://github.com/tinyhttp/tinyhttp) ⭐ 2,901 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-10 - `0-legacy, tiny & fast web framework as a replacement of Express` *by [tinyhttp](https://github.com/tinyhttp)*
-3. (⭐ 319) [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,705 | 🐛 350 | 🌐 HTML | 📅 2025-12-19 - `thedev.id is a free identity for developers on the web. This service offers a handy subdomain like foo.thedev.id or bar.thedev.id for use on your static sites via CNAME record. Fork, add subdomain and send a Pull Request. We will make it work.` *by [Frans Allen](https://github.com/fransallen)*
+3. (⭐ 319) [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,706 | 🐛 351 | 🌐 HTML | 📅 2025-12-19 - `thedev.id is a free identity for developers on the web. This service offers a handy subdomain like foo.thedev.id or bar.thedev.id for use on your static sites via CNAME record. Fork, add subdomain and send a Pull Request. We will make it work.` *by [Frans Allen](https://github.com/fransallen)*
 4. (⭐ 119) [Tailwind VPN Landingpage - Free Landingpage Template Apps](https://github.com/naufaldi/next-landing-vpn) ⚠️ Archived - `An Open Source Landingpage For VPN or Apps. Build using NextJS 10 and Tailwind v2.0` *by [Naufaldi](https://github.com/naufaldi)*
 5. (⭐ 325) [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) ⭐ 438 | 🐛 2 | 🌐 Go | 📅 2023-11-01 - `Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis` *by [Juan Christian](https://github.com/HotPotatoC)*
 6. (⭐ 168) [tinyws](https://github.com/tinyhttp/tinyws) ⭐ 415 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-01 - `tiny WebSocket middleware for Node.js` *by [tinyhttp](https://github.com/tinyhttp)*
