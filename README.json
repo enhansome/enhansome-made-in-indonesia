@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21609,
+            "stars": 21613,
             "topics": [
               "automation",
               "browser-automation",
@@ -124,7 +124,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 724,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -1708,10 +1708,10 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-02-22T04:05:13Z",
-            "open_issues": 378,
+            "open_issues": 381,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1950,
+            "stars": 1951,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -1743,7 +1743,7 @@
             "open_issues": 57,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1225,
+            "stars": 1227,
             "topics": [
               "bot",
               "climate",
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12092,
+            "stars": 12096,
             "topics": [
               "blog",
               "comment-system",
@@ -2727,7 +2727,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
             "stars": 1362,
@@ -2958,7 +2958,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T11:58:57Z",
+            "last_commit": "2026-09-11T09:24:02Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-10T18:13:08Z",
+            "last_commit": "2026-09-11T18:17:49Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -4896,7 +4896,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 362,
+            "open_issues": 355,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1224,
@@ -5014,7 +5014,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29439,
+            "stars": 29441,
             "topics": [
               "automation",
               "headless",
@@ -6060,7 +6060,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3765,
+            "stars": 3764,
             "topics": [
               "admin",
               "bootstrap",
@@ -6088,7 +6088,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2431,
+            "stars": 2432,
             "topics": [
               "bash",
               "bugbounty",
@@ -7058,7 +7058,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11475,
+            "stars": 11477,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7139,7 +7139,7 @@
             "open_issues": 360,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1721,
+            "stars": 1723,
             "topics": [
               "developer-tools",
               "dns",
@@ -7779,11 +7779,11 @@
             "id": 79108501,
             "language": "SQL",
             "license": "MIT",
-            "last_commit": "2026-09-11T02:59:32Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-11T07:41:22Z",
+            "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1298,
+            "stars": 1300,
             "topics": [
               "2025",
               "data",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:20:42.807Z",
+    "last_updated": "2026-09-12T05:11:18.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
