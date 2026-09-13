@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21613,
+            "stars": 21617,
             "topics": [
               "automation",
               "browser-automation",
@@ -98,7 +98,7 @@
             "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -252,8 +252,8 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T10:56:39Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-12T16:42:04Z",
+            "open_issues": 2,
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186,
@@ -1743,7 +1743,7 @@
             "open_issues": 57,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1227,
+            "stars": 1230,
             "topics": [
               "bot",
               "climate",
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12096,
+            "stars": 12098,
             "topics": [
               "blog",
               "comment-system",
@@ -2958,7 +2958,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:24:02Z",
+            "last_commit": "2026-09-13T04:57:05Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -3109,7 +3109,7 @@
             "id": 150426410,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-10T15:04:48Z",
+            "last_commit": "2026-09-13T02:52:29Z",
             "open_issues": 35,
             "owner": "BlankOn",
             "repo": "irgsh-go",
@@ -3362,7 +3362,7 @@
             "id": 192210421,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T12:17:24Z",
+            "last_commit": "2026-09-12T15:52:20Z",
             "open_issues": 9,
             "owner": "basoro",
             "repo": "mlite",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-11T18:17:49Z",
+            "last_commit": "2026-09-12T17:42:59Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -3808,7 +3808,7 @@
             "open_issues": 3,
             "owner": "syauqi",
             "repo": "learnify",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "bootstrap4",
               "codeigniter3",
@@ -4206,7 +4206,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3100,
+            "stars": 3101,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -6125,11 +6125,11 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-11T01:22:02Z",
+            "last_commit": "2026-09-13T03:59:47Z",
             "open_issues": 9,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 741,
+            "stars": 742,
             "topics": [
               "freesimrs",
               "his",
@@ -6187,7 +6187,7 @@
             "open_issues": 2,
             "owner": "staticallyio",
             "repo": "statically",
-            "stars": 611,
+            "stars": 609,
             "topics": [
               "cdn",
               "css",
@@ -6346,7 +6346,7 @@
             "open_issues": 3,
             "owner": "staticallyio",
             "repo": "screenshot",
-            "stars": 158,
+            "stars": 157,
             "topics": [
               "docker",
               "nodejs",
@@ -6596,6 +6596,27 @@
         },
         {
           "node_type": "item",
+          "title": "(⭐ 3) Sunda.js",
+          "description": "by Nourman Hajar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.",
+            "homepage": "https://www.npmjs.com/package/sunda.js",
+            "id": 427310452,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2021-11-14T11:05:38Z",
+            "open_issues": 0,
+            "owner": "masnormen",
+            "repo": "sunda.js",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:18:00.904Z"
+        },
+        {
+          "node_type": "item",
           "title": "(⭐ 1) SPPIE",
           "description": "by Syauqizaidan",
           "children": [],
@@ -6616,27 +6637,6 @@
               "laravel",
               "spp"
             ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(⭐ 3) Sunda.js",
-          "description": "by Nourman Hajar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Convert/transliterate Latin into Sundanese script (Aksara Sunda Baku), or vice versa.",
-            "homepage": "https://www.npmjs.com/package/sunda.js",
-            "id": 427310452,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2021-11-14T11:05:38Z",
-            "open_issues": 0,
-            "owner": "masnormen",
-            "repo": "sunda.js",
-            "stars": 11,
-            "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
         },
@@ -7100,7 +7100,7 @@
             "open_issues": 11,
             "owner": "tinyhttp",
             "repo": "tinyhttp",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "backend",
               "es6",
@@ -7136,7 +7136,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 360,
+            "open_issues": 362,
             "owner": "thedev-id",
             "repo": "thedev.id",
             "stars": 1723,
@@ -7260,7 +7260,7 @@
             "id": 424991110,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T00:33:39Z",
+            "last_commit": "2026-09-13T00:28:58Z",
             "open_issues": 11,
             "owner": "hansputera",
             "repo": "tiktok-dl",
@@ -7783,7 +7783,7 @@
             "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1300,
+            "stars": 1301,
             "topics": [
               "2025",
               "data",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:11:18.683Z",
+    "last_updated": "2026-09-13T05:26:12.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
