@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21626,
+            "stars": 21628,
             "topics": [
               "automation",
               "browser-automation",
@@ -77,7 +77,7 @@
             "open_issues": 9,
             "owner": "myugan",
             "repo": "awesome-cicd-security",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T18:33:12Z",
+            "last_commit": "2026-09-18T16:32:34Z",
             "open_issues": 2,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "faizilham",
             "repo": "budgetpascal",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "compiler",
               "pascal",
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 392,
+            "open_issues": 395,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1952,
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12111,
+            "stars": 12112,
             "topics": [
               "blog",
               "comment-system",
@@ -2730,7 +2730,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1362,
+            "stars": 1363,
             "topics": [
               "blog",
               "blog-engine",
@@ -3307,7 +3307,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1064,
+            "stars": 1062,
             "topics": [
               "blog",
               "gh-pages",
@@ -3366,7 +3366,7 @@
             "open_issues": 9,
             "owner": "basoro",
             "repo": "mlite",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "klinik",
               "puskesmas",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-17T18:53:26Z",
+            "last_commit": "2026-09-18T18:11:51Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -4896,10 +4896,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 342,
+            "open_issues": 344,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -5014,7 +5014,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29435,
+            "stars": 29434,
             "topics": [
               "automation",
               "headless",
@@ -6125,11 +6125,11 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-17T00:03:35Z",
+            "last_commit": "2026-09-18T22:35:11Z",
             "open_issues": 9,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 753,
+            "stars": 756,
             "topics": [
               "freesimrs",
               "his",
@@ -7058,7 +7058,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11488,
+            "stars": 11489,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7100,7 +7100,7 @@
             "open_issues": 11,
             "owner": "tinyhttp",
             "repo": "tinyhttp",
-            "stars": 2903,
+            "stars": 2904,
             "topics": [
               "backend",
               "es6",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 369,
+            "open_issues": 370,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1729,
+            "stars": 1733,
             "topics": [
               "developer-tools",
               "dns",
@@ -7260,7 +7260,7 @@
             "id": 424991110,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:17:23Z",
+            "last_commit": "2026-09-18T23:37:05Z",
             "open_issues": 11,
             "owner": "hansputera",
             "repo": "tiktok-dl",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:19:04.951Z",
+    "last_updated": "2026-09-19T05:11:45.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
