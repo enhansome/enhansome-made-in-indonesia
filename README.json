@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21630,
+            "stars": 21631,
             "topics": [
               "automation",
               "browser-automation",
@@ -170,7 +170,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-09-05T20:50:16Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "fauzan1892",
             "repo": "pos-kasir-php",
             "stars": 257,
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T16:32:34Z",
+            "last_commit": "2026-09-20T09:17:31Z",
             "open_issues": 2,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -1708,10 +1708,10 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 398,
+            "open_issues": 401,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1952,
+            "stars": 1953,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12112,
+            "stars": 12113,
             "topics": [
               "blog",
               "comment-system",
@@ -3109,7 +3109,7 @@
             "id": 150426410,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-13T02:52:29Z",
+            "last_commit": "2026-09-21T05:22:28Z",
             "open_issues": 39,
             "owner": "BlankOn",
             "repo": "irgsh-go",
@@ -3307,7 +3307,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1062,
+            "stars": 1061,
             "topics": [
               "blog",
               "gh-pages",
@@ -3362,7 +3362,7 @@
             "id": 192210421,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T09:21:50Z",
+            "last_commit": "2026-09-20T07:01:04Z",
             "open_issues": 7,
             "owner": "basoro",
             "repo": "mlite",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-19T17:52:00Z",
+            "last_commit": "2026-09-20T18:08:18Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -3833,7 +3833,7 @@
             "open_issues": 34,
             "owner": "joglomedia",
             "repo": "LEMPer",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "drupal",
               "hosting",
@@ -4614,7 +4614,7 @@
             "open_issues": 1,
             "owner": "RSurya99",
             "repo": "nefa",
-            "stars": 475,
+            "stars": 474,
             "topics": [
               "cryptocurrency",
               "landing-page",
@@ -4899,7 +4899,7 @@
             "open_issues": 344,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1226,
+            "stars": 1227,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -5014,7 +5014,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29434,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -5040,7 +5040,7 @@
             "open_issues": 111,
             "owner": "adeyosemanputra",
             "repo": "pygoat",
-            "stars": 343,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -6060,7 +6060,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3764,
+            "stars": 3765,
             "topics": [
               "admin",
               "bootstrap",
@@ -6088,7 +6088,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "bash",
               "bugbounty",
@@ -6125,7 +6125,7 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-19T13:31:45Z",
+            "last_commit": "2026-09-20T14:09:02Z",
             "open_issues": 9,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
@@ -7058,7 +7058,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11491,
+            "stars": 11494,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 372,
+            "open_issues": 371,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1734,
+            "stars": 1733,
             "topics": [
               "developer-tools",
               "dns",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:29:12.795Z",
+    "last_updated": "2026-09-21T05:34:21.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
