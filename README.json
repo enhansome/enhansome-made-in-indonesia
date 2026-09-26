@@ -124,7 +124,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 722,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T09:17:31Z",
+            "last_commit": "2026-09-26T04:56:44Z",
             "open_issues": 3,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -710,7 +710,7 @@
             "open_issues": 1,
             "owner": "azzamsa",
             "repo": "bilal",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "islam",
               "islamic-prayer-times"
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 408,
+            "open_issues": 409,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1955,
@@ -1743,7 +1743,7 @@
             "open_issues": 57,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1231,
+            "stars": 1232,
             "topics": [
               "bot",
               "climate",
@@ -2730,7 +2730,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1364,
+            "stars": 1363,
             "topics": [
               "blog",
               "blog-engine",
@@ -2958,8 +2958,8 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T14:40:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-26T04:17:12Z",
+            "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 242,
@@ -3109,11 +3109,11 @@
             "id": 150426410,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T15:30:48Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-26T05:05:50Z",
+            "open_issues": 49,
             "owner": "BlankOn",
             "repo": "irgsh-go",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "automation",
               "blankon",
@@ -3307,7 +3307,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1061,
+            "stars": 1060,
             "topics": [
               "blog",
               "gh-pages",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-24T18:55:08Z",
+            "last_commit": "2026-09-25T19:11:06Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -3447,7 +3447,7 @@
             "open_issues": 1,
             "owner": "laymonage",
             "repo": "kbbi-python",
-            "stars": 86,
+            "stars": 85,
             "topics": [
               "indonesian-language",
               "nlp-resources"
@@ -3729,7 +3729,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1490,
+            "stars": 1489,
             "topics": [
               "android",
               "group",
@@ -6088,7 +6088,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2432,
+            "stars": 2434,
             "topics": [
               "bash",
               "bugbounty",
@@ -6125,11 +6125,11 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-24T13:57:06Z",
+            "last_commit": "2026-09-25T08:51:49Z",
             "open_issues": 14,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "freesimrs",
               "his",
@@ -7058,7 +7058,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11498,
+            "stars": 11502,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 380,
+            "open_issues": 382,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1740,
+            "stars": 1741,
             "topics": [
               "developer-tools",
               "dns",
@@ -7264,7 +7264,7 @@
             "open_issues": 11,
             "owner": "hansputera",
             "repo": "tiktok-dl",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "api",
               "hacktoberfest",
@@ -7779,11 +7779,11 @@
             "id": 79108501,
             "language": "SQL",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:19:20Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-25T13:13:44Z",
+            "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1306,
+            "stars": 1307,
             "topics": [
               "2025",
               "data",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T05:31:13.897Z",
+    "last_updated": "2026-09-26T05:37:06.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
