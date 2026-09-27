@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21642,
+            "stars": 21641,
             "topics": [
               "automation",
               "browser-automation",
@@ -94,8 +94,8 @@
             "id": 52785444,
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-08T16:59:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-26T11:40:22Z",
+            "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
             "stars": 764,
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T04:56:44Z",
+            "last_commit": "2026-09-26T17:20:24Z",
             "open_issues": 3,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 409,
+            "open_issues": 412,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1955,
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12120,
+            "stars": 12121,
             "topics": [
               "blog",
               "comment-system",
@@ -3109,8 +3109,8 @@
             "id": 150426410,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T05:05:50Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-26T18:06:04Z",
+            "open_issues": 50,
             "owner": "BlankOn",
             "repo": "irgsh-go",
             "stars": 28,
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-25T19:11:06Z",
+            "last_commit": "2026-09-26T18:26:35Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -3729,7 +3729,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1489,
+            "stars": 1490,
             "topics": [
               "android",
               "group",
@@ -3764,7 +3764,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -4779,7 +4779,7 @@
             "open_issues": 0,
             "owner": "cahyadsn",
             "repo": "neoadzan",
-            "stars": 21,
+            "stars": 20,
             "topics": [
               "mysql",
               "php-language",
@@ -4896,10 +4896,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 342,
+            "open_issues": 343,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1228,
+            "stars": 1227,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -6213,7 +6213,7 @@
             "open_issues": 31,
             "owner": "adhiariyadi",
             "repo": "Sistem-Informasi-Akademik-Sekolah-Laravel",
-            "stars": 522,
+            "stars": 521,
             "topics": [
               "akademik",
               "informasi",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 382,
+            "open_issues": 386,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1741,
+            "stars": 1742,
             "topics": [
               "developer-tools",
               "dns",
@@ -7869,7 +7869,7 @@
             "open_issues": 6,
             "owner": "PetengDedet",
             "repo": "WhatsApp-Analyzer",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "chat-analysis",
               "whatsapp",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T05:37:06.290Z",
+    "last_updated": "2026-09-27T05:53:41.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
