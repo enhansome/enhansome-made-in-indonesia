@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21644,
+            "stars": 21643,
             "topics": [
               "automation",
               "browser-automation",
@@ -77,7 +77,7 @@
             "open_issues": 10,
             "owner": "myugan",
             "repo": "awesome-cicd-security",
-            "stars": 843,
+            "stars": 844,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -228,7 +228,7 @@
             "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "aksara-ui",
               "component-library",
@@ -252,11 +252,11 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T17:20:23Z",
+            "last_commit": "2026-10-05T18:14:23Z",
             "open_issues": 2,
             "owner": "realodix",
             "repo": "AdBlockID",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "adblock",
               "adblock-list",
@@ -427,8 +427,8 @@
             "id": 158998406,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-02T17:04:58Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-05T08:42:47Z",
+            "open_issues": 9,
             "owner": "basoro",
             "repo": "apam",
             "stars": 9,
@@ -539,8 +539,8 @@
             "id": 158797604,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:29:18Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-05T09:33:06Z",
+            "open_issues": 15,
             "owner": "mazipan",
             "repo": "baca-quran.id",
             "stars": 435,
@@ -761,7 +761,7 @@
             "open_issues": 0,
             "owner": "lantip",
             "repo": "baku-tidak-baku",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -1302,11 +1302,11 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T18:28:30Z",
+            "last_commit": "2026-10-05T11:04:13Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "adblock",
               "dns",
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 427,
+            "open_issues": 428,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1959,
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12139,
+            "stars": 12140,
             "topics": [
               "blog",
               "comment-system",
@@ -2302,7 +2302,7 @@
             "open_issues": 4,
             "owner": "restuwahyu13",
             "repo": "go-rest-api",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "application-server",
               "crud-application",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T18:34:38Z",
+            "last_commit": "2026-10-05T21:54:51Z",
             "open_issues": 2,
             "owner": "pveyes",
             "repo": "katla",
@@ -3729,7 +3729,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1494,
+            "stars": 1493,
             "topics": [
               "android",
               "group",
@@ -4896,7 +4896,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 350,
+            "open_issues": 331,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1229,
@@ -5765,7 +5765,7 @@
             "open_issues": 3,
             "owner": "indrijunanda",
             "repo": "RuangAdmin",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -6088,7 +6088,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2433,
+            "stars": 2435,
             "topics": [
               "bash",
               "bugbounty",
@@ -6125,7 +6125,7 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-03T05:14:05Z",
+            "last_commit": "2026-10-06T06:31:28Z",
             "open_issues": 14,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
@@ -6360,35 +6360,6 @@
         },
         {
           "node_type": "item",
-          "title": "(⭐ 97) SonWan UI",
-          "description": "by Sonny Lazuardi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SonWan UI is a modular UI component library based on figma design to build your next React Web Application.",
-            "homepage": "https://sonwan-ui.sonnylab.com/",
-            "id": 322255680,
-            "language": "CSS",
-            "license": "0BSD",
-            "last_commit": "2021-03-25T00:18:39Z",
-            "open_issues": 1,
-            "owner": "sonnylazuardi",
-            "repo": "sonwan-ui",
-            "stars": 106,
-            "topics": [
-              "library",
-              "react",
-              "reactjs",
-              "tailwind",
-              "tailwindcss",
-              "ui",
-              "uikit"
-            ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
           "title": "(⭐ 19) Sistem Informasi Perpustakaan",
           "description": "by Fauzan Falah",
           "children": [],
@@ -6438,6 +6409,35 @@
               "multipage",
               "multipage-app",
               "svelte"
+            ]
+          },
+          "first_seen": "2026-08-28T12:18:00.904Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 97) SonWan UI",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SonWan UI is a modular UI component library based on figma design to build your next React Web Application.",
+            "homepage": "https://sonwan-ui.sonnylab.com/",
+            "id": 322255680,
+            "language": "CSS",
+            "license": "0BSD",
+            "last_commit": "2021-03-25T00:18:39Z",
+            "open_issues": 1,
+            "owner": "sonnylazuardi",
+            "repo": "sonwan-ui",
+            "stars": 105,
+            "topics": [
+              "library",
+              "react",
+              "reactjs",
+              "tailwind",
+              "tailwindcss",
+              "ui",
+              "uikit"
             ]
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -6553,8 +6553,8 @@
             "id": 34835103,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:33:46Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-06T03:51:09Z",
+            "open_issues": 14,
             "owner": "cermati",
             "repo": "satpam",
             "stars": 18,
@@ -7055,7 +7055,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2024-03-17T12:09:38Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "screetsec",
             "repo": "TheFatRat",
             "stars": 11516,
@@ -7100,7 +7100,7 @@
             "open_issues": 11,
             "owner": "tinyhttp",
             "repo": "tinyhttp",
-            "stars": 2904,
+            "stars": 2902,
             "topics": [
               "backend",
               "es6",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 397,
+            "open_issues": 401,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1756,
+            "stars": 1759,
             "topics": [
               "developer-tools",
               "dns",
@@ -7197,7 +7197,7 @@
             "open_issues": 2,
             "owner": "HotPotatoC",
             "repo": "twitter-clone",
-            "stars": 437,
+            "stars": 436,
             "topics": [
               "aws",
               "clone",
@@ -7233,7 +7233,7 @@
             "open_issues": 0,
             "owner": "tinyhttp",
             "repo": "tinyws",
-            "stars": 417,
+            "stars": 416,
             "topics": [
               "express",
               "http",
@@ -7260,7 +7260,7 @@
             "id": 424991110,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:36:48Z",
+            "last_commit": "2026-10-05T15:01:54Z",
             "open_issues": 11,
             "owner": "hansputera",
             "repo": "tiktok-dl",
@@ -7779,11 +7779,11 @@
             "id": 79108501,
             "language": "SQL",
             "license": "MIT",
-            "last_commit": "2026-10-05T01:06:07Z",
+            "last_commit": "2026-10-05T08:42:40Z",
             "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1318,
+            "stars": 1320,
             "topics": [
               "2025",
               "data",
@@ -7813,7 +7813,7 @@
             "open_issues": 27,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:19:50.636Z",
+    "last_updated": "2026-10-06T06:55:20.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
