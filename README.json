@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21643,
+            "stars": 21645,
             "topics": [
               "automation",
               "browser-automation",
@@ -124,7 +124,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 723,
+            "stars": 722,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -228,7 +228,7 @@
             "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "aksara-ui",
               "component-library",
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1959,
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12140,
+            "stars": 12141,
             "topics": [
               "blog",
               "comment-system",
@@ -4896,7 +4896,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 331,
+            "open_issues": 330,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1229,
@@ -5014,7 +5014,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29440,
+            "stars": 29439,
             "topics": [
               "automation",
               "headless",
@@ -6360,6 +6360,35 @@
         },
         {
           "node_type": "item",
+          "title": "(⭐ 97) SonWan UI",
+          "description": "by Sonny Lazuardi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SonWan UI is a modular UI component library based on figma design to build your next React Web Application.",
+            "homepage": "https://sonwan-ui.sonnylab.com/",
+            "id": 322255680,
+            "language": "CSS",
+            "license": "0BSD",
+            "last_commit": "2021-03-25T00:18:39Z",
+            "open_issues": 1,
+            "owner": "sonnylazuardi",
+            "repo": "sonwan-ui",
+            "stars": 106,
+            "topics": [
+              "library",
+              "react",
+              "reactjs",
+              "tailwind",
+              "tailwindcss",
+              "ui",
+              "uikit"
+            ]
+          },
+          "first_seen": "2026-08-28T12:18:00.904Z"
+        },
+        {
+          "node_type": "item",
           "title": "(⭐ 19) Sistem Informasi Perpustakaan",
           "description": "by Fauzan Falah",
           "children": [],
@@ -6409,35 +6438,6 @@
               "multipage",
               "multipage-app",
               "svelte"
-            ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(⭐ 97) SonWan UI",
-          "description": "by Sonny Lazuardi",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SonWan UI is a modular UI component library based on figma design to build your next React Web Application.",
-            "homepage": "https://sonwan-ui.sonnylab.com/",
-            "id": 322255680,
-            "language": "CSS",
-            "license": "0BSD",
-            "last_commit": "2021-03-25T00:18:39Z",
-            "open_issues": 1,
-            "owner": "sonnylazuardi",
-            "repo": "sonwan-ui",
-            "stars": 105,
-            "topics": [
-              "library",
-              "react",
-              "reactjs",
-              "tailwind",
-              "tailwindcss",
-              "ui",
-              "uikit"
             ]
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -7197,7 +7197,7 @@
             "open_issues": 2,
             "owner": "HotPotatoC",
             "repo": "twitter-clone",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "aws",
               "clone",
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:55:20.903Z",
+    "last_updated": "2026-10-06T10:53:23.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
