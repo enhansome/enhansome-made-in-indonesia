@@ -16,7 +16,7 @@
             "language": "Vue",
             "license": "NOASSERTION",
             "last_commit": "2026-03-02T11:56:23Z",
-            "open_issues": 377,
+            "open_issues": 378,
             "owner": "AutomaApp",
             "repo": "automa",
             "stars": 21652,
@@ -124,7 +124,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 723,
+            "stars": 724,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -543,7 +543,7 @@
             "open_issues": 15,
             "owner": "mazipan",
             "repo": "baca-quran.id",
-            "stars": 435,
+            "stars": 434,
             "topics": [
               "quran",
               "quran-offline",
@@ -1708,7 +1708,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 438,
+            "open_issues": 444,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1960,
@@ -1743,7 +1743,7 @@
             "open_issues": 57,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1236,
+            "stars": 1237,
             "topics": [
               "bot",
               "climate",
@@ -2137,7 +2137,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12144,
+            "stars": 12145,
             "topics": [
               "blog",
               "comment-system",
@@ -2958,7 +2958,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T14:54:10Z",
+            "last_commit": "2026-10-10T00:36:28Z",
             "open_issues": 2,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -3389,7 +3389,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-08T20:35:28Z",
+            "last_commit": "2026-10-09T20:02:42Z",
             "open_issues": 0,
             "owner": "pveyes",
             "repo": "katla",
@@ -3764,7 +3764,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 678,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -4206,7 +4206,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3104,
+            "stars": 3103,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -4896,7 +4896,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 325,
+            "open_issues": 323,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1229,
@@ -5014,7 +5014,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29436,
+            "stars": 29434,
             "topics": [
               "automation",
               "headless",
@@ -5449,7 +5449,7 @@
             "open_issues": 12,
             "owner": "gadingnst",
             "repo": "quran-api",
-            "stars": 820,
+            "stars": 819,
             "topics": [
               "al-quran",
               "alquran",
@@ -5491,7 +5491,7 @@
             "open_issues": 18,
             "owner": "renomureza",
             "repo": "quran-api-id",
-            "stars": 171,
+            "stars": 170,
             "topics": [
               "al-quran",
               "alquran",
@@ -6060,7 +6060,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3761,
+            "stars": 3760,
             "topics": [
               "admin",
               "bootstrap",
@@ -6088,7 +6088,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2438,
+            "stars": 2439,
             "topics": [
               "bash",
               "bugbounty",
@@ -6125,7 +6125,7 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-07T01:57:43Z",
+            "last_commit": "2026-10-10T04:27:28Z",
             "open_issues": 14,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
@@ -7058,7 +7058,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11518,
+            "stars": 11520,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7100,7 +7100,7 @@
             "open_issues": 11,
             "owner": "tinyhttp",
             "repo": "tinyhttp",
-            "stars": 2903,
+            "stars": 2904,
             "topics": [
               "backend",
               "es6",
@@ -7136,10 +7136,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 409,
+            "open_issues": 415,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1763,
+            "stars": 1767,
             "topics": [
               "developer-tools",
               "dns",
@@ -7783,7 +7783,7 @@
             "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "2025",
               "data",
@@ -7813,7 +7813,7 @@
             "open_issues": 27,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960,
+            "stars": 959,
             "topics": [
               "dataset",
               "indonesia"
@@ -8233,7 +8233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:49:43.871Z",
+    "last_updated": "2026-10-10T06:27:57.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
