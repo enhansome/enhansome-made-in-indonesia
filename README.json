@@ -19,7 +19,7 @@
             "open_issues": 378,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21667,
+            "stars": 21671,
             "topics": [
               "automation",
               "browser-automation",
@@ -98,7 +98,7 @@
             "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 767,
+            "stars": 768,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -427,8 +427,8 @@
             "id": 158998406,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-17T12:40:02Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-20T18:37:57Z",
+            "open_issues": 12,
             "owner": "basoro",
             "repo": "apam",
             "stars": 9,
@@ -502,8 +502,8 @@
             "id": 244478619,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-15T04:11:33Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-20T10:00:20Z",
+            "open_issues": 0,
             "owner": "bebasid",
             "repo": "bebasid",
             "stars": 924,
@@ -593,11 +593,11 @@
             "id": 105293723,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-14T02:52:42Z",
+            "last_commit": "2026-10-21T03:54:43Z",
             "open_issues": 0,
             "owner": "petanikode",
             "repo": "belajar-git",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "book",
               "git",
@@ -1302,11 +1302,11 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T11:12:26Z",
+            "last_commit": "2026-10-20T07:46:10Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
-            "stars": 429,
+            "stars": 428,
             "topics": [
               "adblock",
               "dns",
@@ -1426,7 +1426,7 @@
             "open_issues": 0,
             "owner": "hilmanski",
             "repo": "discussbase",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "discussion",
               "forum"
@@ -1710,10 +1710,10 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 485,
+            "open_issues": 488,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1958,
+            "stars": 1959,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -1745,7 +1745,7 @@
             "open_issues": 57,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "bot",
               "climate",
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12169,
+            "stars": 12175,
             "topics": [
               "blog",
               "comment-system",
@@ -2199,7 +2199,7 @@
             "id": 239970041,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:51:23Z",
+            "last_commit": "2026-10-20T23:08:37Z",
             "open_issues": 2,
             "owner": "mazipan",
             "repo": "graphql-pokeapi",
@@ -2461,8 +2461,8 @@
             "id": 82885565,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-15T16:38:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-21T04:32:29Z",
+            "open_issues": 4,
             "owner": "kokizzu",
             "repo": "gotro",
             "stars": 53,
@@ -2513,7 +2513,7 @@
             "id": 252402762,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-07-08T17:44:42Z",
+            "last_commit": "2026-10-21T04:28:59Z",
             "open_issues": 0,
             "owner": "kokizzu",
             "repo": "goproc",
@@ -2732,7 +2732,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "blog",
               "blog-engine",
@@ -2960,7 +2960,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T14:36:03Z",
+            "last_commit": "2026-10-20T21:37:48Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -2975,32 +2975,6 @@
               "filterlist",
               "ublock",
               "ublock-origin"
-            ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
-          "title": "(⭐ 22) Inspect CSS",
-          "description": "by Ahmad Kholid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The easiest way to inspect and edit CSS",
-            "homepage": "https://chrome.google.com/webstore/detail/inspect-css/fbopfffegfehobgoommphghohinpkego",
-            "id": 290101870,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2024-10-20T02:02:13Z",
-            "open_issues": 7,
-            "owner": "Kholid060",
-            "repo": "inspect-css",
-            "stars": 163,
-            "topics": [
-              "css",
-              "developer-tools",
-              "inspect",
-              "vue"
             ]
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -3036,6 +3010,32 @@
               "whatsapp-api",
               "whatsapp-bot",
               "youtube"
+            ]
+          },
+          "first_seen": "2026-08-28T12:18:00.904Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 22) Inspect CSS",
+          "description": "by Ahmad Kholid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The easiest way to inspect and edit CSS",
+            "homepage": "https://chrome.google.com/webstore/detail/inspect-css/fbopfffegfehobgoommphghohinpkego",
+            "id": 290101870,
+            "language": "Vue",
+            "license": "MIT",
+            "last_commit": "2024-10-20T02:02:13Z",
+            "open_issues": 7,
+            "owner": "Kholid060",
+            "repo": "inspect-css",
+            "stars": 162,
+            "topics": [
+              "css",
+              "developer-tools",
+              "inspect",
+              "vue"
             ]
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -3364,8 +3364,8 @@
             "id": 192210421,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T02:59:55Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-21T04:31:28Z",
+            "open_issues": 0,
             "owner": "basoro",
             "repo": "mlite",
             "stars": 171,
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-19T20:27:29Z",
+            "last_commit": "2026-10-20T19:04:22Z",
             "open_issues": 0,
             "owner": "pveyes",
             "repo": "katla",
@@ -3766,7 +3766,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 679,
+            "stars": 680,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -4208,7 +4208,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -4898,10 +4898,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 332,
+            "open_issues": 330,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1230,
+            "stars": 1231,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -5016,7 +5016,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29428,
+            "stars": 29427,
             "topics": [
               "automation",
               "headless",
@@ -5042,7 +5042,7 @@
             "open_issues": 112,
             "owner": "adeyosemanputra",
             "repo": "pygoat",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -6062,7 +6062,7 @@
             "open_issues": 1,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3755,
+            "stars": 3756,
             "topics": [
               "admin",
               "bootstrap",
@@ -6090,7 +6090,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2441,
+            "stars": 2442,
             "topics": [
               "bash",
               "bugbounty",
@@ -6128,7 +6128,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-10-20T02:49:19Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
             "stars": 766,
@@ -7060,7 +7060,7 @@
             "open_issues": 153,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11545,
+            "stars": 11550,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7098,11 +7098,11 @@
             "id": 271918885,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T23:14:48Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-20T12:14:55Z",
+            "open_issues": 10,
             "owner": "tinyhttp",
             "repo": "tinyhttp",
-            "stars": 2907,
+            "stars": 2908,
             "topics": [
               "backend",
               "es6",
@@ -7138,10 +7138,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 426,
+            "open_issues": 428,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1784,
+            "stars": 1785,
             "topics": [
               "developer-tools",
               "dns",
@@ -7262,7 +7262,7 @@
             "id": 424991110,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T10:15:37Z",
+            "last_commit": "2026-10-20T13:29:36Z",
             "open_issues": 11,
             "owner": "hansputera",
             "repo": "tiktok-dl",
@@ -7815,7 +7815,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -8235,7 +8235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:26:29.342Z",
+    "last_updated": "2026-10-21T05:24:11.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
