@@ -77,7 +77,7 @@
             "open_issues": 14,
             "owner": "myugan",
             "repo": "awesome-cicd-security",
-            "stars": 845,
+            "stars": 846,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -252,8 +252,8 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T16:28:14Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-25T16:27:59Z",
+            "open_issues": 2,
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 185,
@@ -1302,7 +1302,7 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T11:21:09Z",
+            "last_commit": "2026-10-25T22:18:24Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
@@ -1710,7 +1710,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 502,
+            "open_issues": 507,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1962,
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12174,
+            "stars": 12179,
             "topics": [
               "blog",
               "comment-system",
@@ -2175,7 +2175,7 @@
             "open_issues": 0,
             "owner": "nafiesl",
             "repo": "grosir-obat",
-            "stars": 262,
+            "stars": 261,
             "topics": [
               "dompdf",
               "laravel",
@@ -3305,11 +3305,11 @@
             "id": 173528743,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2024-08-05T09:59:27Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-25T16:28:31Z",
+            "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1059,
             "topics": [
               "blog",
               "gh-pages",
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-24T17:59:01Z",
+            "last_commit": "2026-10-25T18:16:16Z",
             "open_issues": 0,
             "owner": "pveyes",
             "repo": "katla",
@@ -3766,7 +3766,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -3831,7 +3831,7 @@
             "id": 42362800,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T04:12:46Z",
+            "last_commit": "2026-10-25T19:50:57Z",
             "open_issues": 32,
             "owner": "joglomedia",
             "repo": "LEMPer",
@@ -4208,7 +4208,7 @@
             "open_issues": 17,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3106,
+            "stars": 3107,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -4669,7 +4669,7 @@
             "open_issues": 1,
             "owner": "pveyes",
             "repo": "naskah",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "bahasa-indonesia",
               "compiler",
@@ -4898,7 +4898,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 327,
+            "open_issues": 325,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1230,
@@ -5595,34 +5595,6 @@
         },
         {
           "node_type": "item",
-          "title": "(⭐ 7) quran",
-          "description": "by Fiqry choerudin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📖 simple Al-quran digital using vue 2.",
-            "homepage": "https://al-qurandigital.netlify.app/",
-            "id": 343160764,
-            "language": "Vue",
-            "license": null,
-            "last_commit": "2021-06-06T11:06:23Z",
-            "open_issues": 2,
-            "owner": "fiqryq",
-            "repo": "quran-digital",
-            "stars": 12,
-            "topics": [
-              "api",
-              "axios",
-              "js",
-              "quran",
-              "quran-digital",
-              "vue"
-            ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
           "title": "(⭐ 4) quiz-app",
           "description": "by gibran abdillah",
           "children": [],
@@ -6131,7 +6103,7 @@
             "open_issues": 13,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "freesimrs",
               "his",
@@ -6215,7 +6187,7 @@
             "open_issues": 31,
             "owner": "adhiariyadi",
             "repo": "Sistem-Informasi-Akademik-Sekolah-Laravel",
-            "stars": 522,
+            "stars": 521,
             "topics": [
               "akademik",
               "informasi",
@@ -7060,7 +7032,7 @@
             "open_issues": 153,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11563,
+            "stars": 11564,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7138,10 +7110,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 430,
+            "open_issues": 432,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1794,
+            "stars": 1799,
             "topics": [
               "developer-tools",
               "dns",
@@ -8235,7 +8207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T05:23:52.823Z",
+    "last_updated": "2026-10-26T05:28:13.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
