@@ -19,7 +19,7 @@
             "open_issues": 378,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21680,
+            "stars": 21686,
             "topics": [
               "automation",
               "browser-automation",
@@ -200,7 +200,7 @@
             "open_issues": 1,
             "owner": "kresnasatya",
             "repo": "api-harilibur",
-            "stars": 240,
+            "stars": 239,
             "topics": [
               "api",
               "hacktoberfest",
@@ -253,7 +253,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T16:41:26Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 185,
@@ -914,7 +914,7 @@
             "open_issues": 6,
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "color",
               "copy",
@@ -1009,7 +1009,7 @@
             "open_issues": 2,
             "owner": "satyawikananda",
             "repo": "cardivo",
-            "stars": 94,
+            "stars": 93,
             "topics": [
               "magic-readme",
               "name-card",
@@ -1302,8 +1302,8 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:01:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-27T12:11:52Z",
+            "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
             "stars": 429,
@@ -1373,7 +1373,7 @@
             "open_issues": 0,
             "owner": "andre12001",
             "repo": "DWAdmin-Template",
-            "stars": 133,
+            "stars": 132,
             "topics": [
               "dasboard"
             ]
@@ -1710,7 +1710,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 512,
+            "open_issues": 517,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1963,
@@ -1745,7 +1745,7 @@
             "open_issues": 56,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "bot",
               "climate",
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12185,
+            "stars": 12187,
             "topics": [
               "blog",
               "comment-system",
@@ -2461,8 +2461,8 @@
             "id": 82885565,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-22T04:27:22Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T13:54:07Z",
+            "open_issues": 2,
             "owner": "kokizzu",
             "repo": "gotro",
             "stars": 53,
@@ -2513,7 +2513,7 @@
             "id": 252402762,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-22T04:28:54Z",
+            "last_commit": "2026-10-27T13:54:29Z",
             "open_issues": 0,
             "owner": "kokizzu",
             "repo": "goproc",
@@ -2612,29 +2612,6 @@
         },
         {
           "node_type": "item",
-          "title": "(⭐ 4) Github Repo Content CRUD",
-          "description": "by Hilman Ramadhan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CRUD API to manipulate contents in your folder's repository (headless CMS)",
-            "homepage": "api-bitsize-dev.vercel.app",
-            "id": 385490677,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-10-09T00:11:17Z",
-            "open_issues": 1,
-            "owner": "hilmanski",
-            "repo": "Github-content-CRUD-API",
-            "stars": 6,
-            "topics": [
-              "headless-cms"
-            ]
-          },
-          "first_seen": "2026-08-28T12:18:00.904Z"
-        },
-        {
-          "node_type": "item",
           "title": "(⭐ 5) Gambar",
           "description": "by Sendy Halim",
           "children": [],
@@ -2654,6 +2631,29 @@
               "ascii-art",
               "cli",
               "swift"
+            ]
+          },
+          "first_seen": "2026-08-28T12:18:00.904Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(⭐ 4) Github Repo Content CRUD",
+          "description": "by Hilman Ramadhan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CRUD API to manipulate contents in your folder's repository (headless CMS)",
+            "homepage": "api-bitsize-dev.vercel.app",
+            "id": 385490677,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2022-10-09T00:11:17Z",
+            "open_issues": 1,
+            "owner": "hilmanski",
+            "repo": "Github-content-CRUD-API",
+            "stars": 5,
+            "topics": [
+              "headless-cms"
             ]
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -2793,7 +2793,7 @@
             "open_issues": 6,
             "owner": "gadingnst",
             "repo": "hadith-api",
-            "stars": 403,
+            "stars": 402,
             "topics": [
               "express",
               "free-api",
@@ -3364,7 +3364,7 @@
             "id": 192210421,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T07:50:50Z",
+            "last_commit": "2026-10-28T05:36:28Z",
             "open_issues": 0,
             "owner": "basoro",
             "repo": "mlite",
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-26T20:21:56Z",
+            "last_commit": "2026-10-27T19:56:48Z",
             "open_issues": 0,
             "owner": "pveyes",
             "repo": "katla",
@@ -3787,7 +3787,7 @@
             "open_issues": 1,
             "owner": "kokizzu",
             "repo": "list-of-tech-migrations",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "migration"
             ]
@@ -3831,8 +3831,8 @@
             "id": 42362800,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T04:32:27Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-27T08:36:09Z",
+            "open_issues": 17,
             "owner": "joglomedia",
             "repo": "LEMPer",
             "stars": 234,
@@ -4205,10 +4205,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3107,
+            "stars": 3106,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -4361,7 +4361,7 @@
             "open_issues": 8,
             "owner": "hilmanski",
             "repo": "mini-SSG",
-            "stars": 73,
+            "stars": 71,
             "topics": [
               "html",
               "ssg"
@@ -4473,7 +4473,7 @@
             "open_issues": 0,
             "owner": "r17x",
             "repo": "Mesjid-WPMWA",
-            "stars": 29,
+            "stars": 28,
             "topics": [
               "frontend",
               "fullstack",
@@ -4898,7 +4898,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 318,
+            "open_issues": 316,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1230,
@@ -5016,7 +5016,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29427,
+            "stars": 29426,
             "topics": [
               "automation",
               "headless",
@@ -5451,7 +5451,7 @@
             "open_issues": 12,
             "owner": "gadingnst",
             "repo": "quran-api",
-            "stars": 821,
+            "stars": 820,
             "topics": [
               "al-quran",
               "alquran",
@@ -6128,7 +6128,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2024-11-11T20:22:35Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "nafiesl",
             "repo": "silsilah",
             "stars": 640,
@@ -7032,7 +7032,7 @@
             "open_issues": 153,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11566,
+            "stars": 11567,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7110,10 +7110,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 432,
+            "open_issues": 433,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1800,
+            "stars": 1802,
             "topics": [
               "developer-tools",
               "dns",
@@ -7753,7 +7753,7 @@
             "id": 79108501,
             "language": "SQL",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:14:06Z",
+            "last_commit": "2026-10-27T10:57:13Z",
             "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
@@ -8207,7 +8207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:44:17.490Z",
+    "last_updated": "2026-10-28T06:22:38.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
