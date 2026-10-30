@@ -19,7 +19,7 @@
             "open_issues": 378,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21686,
+            "stars": 21688,
             "topics": [
               "automation",
               "browser-automation",
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "myugan",
             "repo": "awesome-linux-customization",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "bsd",
               "customize",
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T19:12:35Z",
+            "last_commit": "2026-10-29T17:10:30Z",
             "open_issues": 0,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -593,8 +593,8 @@
             "id": 105293723,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-21T03:54:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-29T23:23:16Z",
+            "open_issues": 1,
             "owner": "petanikode",
             "repo": "belajar-git",
             "stars": 228,
@@ -1302,11 +1302,11 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T12:11:52Z",
+            "last_commit": "2026-10-29T14:25:28Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "adblock",
               "dns",
@@ -1373,7 +1373,7 @@
             "open_issues": 0,
             "owner": "andre12001",
             "repo": "DWAdmin-Template",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "dasboard"
             ]
@@ -1710,10 +1710,10 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 504,
+            "open_issues": 507,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1964,
+            "stars": 1966,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12190,
+            "stars": 12191,
             "topics": [
               "blog",
               "comment-system",
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-28T20:08:50Z",
+            "last_commit": "2026-10-29T20:06:38Z",
             "open_issues": 0,
             "owner": "pveyes",
             "repo": "katla",
@@ -3731,7 +3731,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1497,
+            "stars": 1498,
             "topics": [
               "android",
               "group",
@@ -4208,7 +4208,7 @@
             "open_issues": 19,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -4898,7 +4898,7 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T06:59:28Z",
-            "open_issues": 322,
+            "open_issues": 330,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1231,
@@ -5016,7 +5016,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29425,
+            "stars": 29421,
             "topics": [
               "automation",
               "headless",
@@ -5039,7 +5039,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-22T03:27:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "adeyosemanputra",
             "repo": "pygoat",
             "stars": 353,
@@ -5692,7 +5692,7 @@
             "open_issues": 48,
             "owner": "rakit",
             "repo": "validation",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "php",
               "php-library",
@@ -6062,7 +6062,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2443,
+            "stars": 2444,
             "topics": [
               "bash",
               "bugbounty",
@@ -6103,7 +6103,7 @@
             "open_issues": 13,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "freesimrs",
               "his",
@@ -7029,10 +7029,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2024-03-17T12:09:38Z",
-            "open_issues": 153,
+            "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11565,
+            "stars": 11569,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7110,10 +7110,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1804,
+            "stars": 1807,
             "topics": [
               "developer-tools",
               "dns",
@@ -7561,7 +7561,7 @@
             "open_issues": 7,
             "owner": "daflh",
             "repo": "vredeburg",
-            "stars": 205,
+            "stars": 204,
             "topics": [
               "eleventy",
               "eleventy-sample",
@@ -8207,7 +8207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:33:10.634Z",
+    "last_updated": "2026-10-30T06:32:44.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
