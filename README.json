@@ -19,7 +19,7 @@
             "open_issues": 379,
             "owner": "AutomaApp",
             "repo": "automa",
-            "stars": 21720,
+            "stars": 21719,
             "topics": [
               "automation",
               "browser-automation",
@@ -74,7 +74,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-29T11:34:25Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "myugan",
             "repo": "awesome-cicd-security",
             "stars": 851,
@@ -124,7 +124,7 @@
             "open_issues": 8,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 725,
+            "stars": 726,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -253,7 +253,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-11-11T16:39:51Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "realodix",
             "repo": "AdBlockID",
             "stars": 186,
@@ -710,7 +710,7 @@
             "open_issues": 1,
             "owner": "azzamsa",
             "repo": "bilal",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "islam",
               "islamic-prayer-times"
@@ -1302,7 +1302,7 @@
             "id": 189592948,
             "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T16:15:35Z",
+            "last_commit": "2026-11-13T01:49:47Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
@@ -1710,7 +1710,7 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 559,
+            "open_issues": 562,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
             "stars": 1973,
@@ -1745,7 +1745,7 @@
             "open_issues": 56,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1252,
+            "stars": 1253,
             "topics": [
               "bot",
               "climate",
@@ -1781,7 +1781,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "freelancer",
               "laravel",
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12218,
+            "stars": 12220,
             "topics": [
               "blog",
               "comment-system",
@@ -2964,7 +2964,7 @@
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "adblock",
               "adblock-list",
@@ -3364,7 +3364,7 @@
             "id": 192210421,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T15:25:55Z",
+            "last_commit": "2026-11-12T20:55:33Z",
             "open_issues": 0,
             "owner": "basoro",
             "repo": "mlite",
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-11T21:48:27Z",
+            "last_commit": "2026-11-12T21:46:39Z",
             "open_issues": 1,
             "owner": "pveyes",
             "repo": "katla",
@@ -3728,10 +3728,10 @@
             "language": "Crystal",
             "license": "CC0-1.0",
             "last_commit": "2025-08-03T03:05:42Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1497,
+            "stars": 1498,
             "topics": [
               "android",
               "group",
@@ -4898,10 +4898,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T11:41:51Z",
-            "open_issues": 327,
+            "open_issues": 326,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1233,
+            "stars": 1234,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -5016,7 +5016,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29415,
+            "stars": 29413,
             "topics": [
               "automation",
               "headless",
@@ -6034,7 +6034,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759,
+            "stars": 3760,
             "topics": [
               "admin",
               "bootstrap",
@@ -6103,7 +6103,7 @@
             "open_issues": 13,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
-            "stars": 779,
+            "stars": 780,
             "topics": [
               "freesimrs",
               "his",
@@ -6498,8 +6498,8 @@
             "id": 247893718,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-07T22:49:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-12T22:52:53Z",
+            "open_issues": 3,
             "owner": "hendisantika",
             "repo": "sekolah",
             "stars": 26,
@@ -7032,7 +7032,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11594,
+            "stars": 11595,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7110,10 +7110,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 453,
+            "open_issues": 456,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1818,
+            "stars": 1820,
             "topics": [
               "developer-tools",
               "dns",
@@ -7498,7 +7498,7 @@
             "open_issues": 28,
             "owner": "maulayyacyber",
             "repo": "uangku-laravel",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "laravel",
               "laravel-framework",
@@ -7757,7 +7757,7 @@
             "open_issues": 2,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "2025",
               "data",
@@ -8207,7 +8207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:47:45.079Z",
+    "last_updated": "2026-11-13T07:24:39.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
