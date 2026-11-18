@@ -173,7 +173,7 @@
             "open_issues": 10,
             "owner": "fauzan1892",
             "repo": "pos-kasir-php",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "aplikasi-penjualan-barang",
               "kasir",
@@ -252,7 +252,7 @@
             "id": 111364643,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T18:44:53Z",
+            "last_commit": "2026-11-17T18:19:40Z",
             "open_issues": 1,
             "owner": "realodix",
             "repo": "AdBlockID",
@@ -1300,13 +1300,13 @@
             "description": "Privacy DNS",
             "homepage": "https://tiar.app",
             "id": 189592948,
-            "language": "HTML",
+            "language": "AppleScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T08:01:38Z",
+            "last_commit": "2026-11-18T05:10:19Z",
             "open_issues": 0,
             "owner": "pengelana",
             "repo": "blocklist",
-            "stars": 432,
+            "stars": 434,
             "topics": [
               "adblock",
               "dns",
@@ -1710,10 +1710,10 @@
             "language": "Astro",
             "license": null,
             "last_commit": "2026-09-13T22:20:14Z",
-            "open_issues": 573,
+            "open_issues": 572,
             "owner": "hilmanski",
             "repo": "freeStuffDev",
-            "stars": 1975,
+            "stars": 1976,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -1745,7 +1745,7 @@
             "open_issues": 56,
             "owner": "warifp",
             "repo": "FacebookToolkit",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "bot",
               "climate",
@@ -2139,7 +2139,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12227,
+            "stars": 12230,
             "topics": [
               "blog",
               "comment-system",
@@ -2960,7 +2960,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T05:42:43Z",
+            "last_commit": "2026-11-17T22:30:36Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -3309,7 +3309,7 @@
             "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1061,
             "topics": [
               "blog",
               "gh-pages",
@@ -3368,7 +3368,7 @@
             "open_issues": 0,
             "owner": "basoro",
             "repo": "mlite",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "klinik",
               "puskesmas",
@@ -3391,7 +3391,7 @@
             "id": 449979751,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-16T23:40:47Z",
+            "last_commit": "2026-11-17T22:48:53Z",
             "open_issues": 1,
             "owner": "pveyes",
             "repo": "katla",
@@ -3731,7 +3731,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1499,
+            "stars": 1498,
             "topics": [
               "android",
               "group",
@@ -3787,7 +3787,7 @@
             "open_issues": 1,
             "owner": "kokizzu",
             "repo": "list-of-tech-migrations",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "migration"
             ]
@@ -4897,8 +4897,8 @@
             "id": 59355182,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T02:38:26Z",
-            "open_issues": 331,
+            "last_commit": "2026-11-18T03:42:15Z",
+            "open_issues": 330,
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1234,
@@ -5063,7 +5063,7 @@
             "open_issues": 4,
             "owner": "ivanlanin",
             "repo": "puebi",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T12:18:00.904Z"
@@ -5451,7 +5451,7 @@
             "open_issues": 12,
             "owner": "gadingnst",
             "repo": "quran-api",
-            "stars": 820,
+            "stars": 819,
             "topics": [
               "al-quran",
               "alquran",
@@ -6034,7 +6034,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3760,
+            "stars": 3759,
             "topics": [
               "admin",
               "bootstrap",
@@ -6062,7 +6062,7 @@
             "open_issues": 42,
             "owner": "screetsec",
             "repo": "Sudomy",
-            "stars": 2445,
+            "stars": 2446,
             "topics": [
               "bash",
               "bugbounty",
@@ -6099,7 +6099,7 @@
             "id": 77564881,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-16T07:43:43Z",
+            "last_commit": "2026-11-18T07:27:52Z",
             "open_issues": 13,
             "owner": "mas-elkhanza",
             "repo": "SIMRS-Khanza",
@@ -7032,7 +7032,7 @@
             "open_issues": 152,
             "owner": "screetsec",
             "repo": "TheFatRat",
-            "stars": 11615,
+            "stars": 11617,
             "topics": [
               "accessibility",
               "antivirus",
@@ -7113,7 +7113,7 @@
             "open_issues": 458,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1825,
+            "stars": 1827,
             "topics": [
               "developer-tools",
               "dns",
@@ -7171,7 +7171,7 @@
             "open_issues": 2,
             "owner": "HotPotatoC",
             "repo": "twitter-clone",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "aws",
               "clone",
@@ -7757,7 +7757,7 @@
             "open_issues": 1,
             "owner": "cahyadsn",
             "repo": "wilayah",
-            "stars": 1342,
+            "stars": 1341,
             "topics": [
               "2025",
               "data",
@@ -8207,7 +8207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:35:20.613Z",
+    "last_updated": "2026-11-18T07:59:29.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia",
